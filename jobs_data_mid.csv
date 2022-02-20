@@ -1,0 +1,927 @@
+Title,Company,Location,Salary,Skills,Experience level
+Back-End Engineer (scala),relayr sp. z o.o.,Remote,9 000 - 19 500 PLN,  java   python   scala  ,Mid
+Full Stack Engineer (NodeJS/React) (m/f/d),relayr sp. z o.o.,"Remote, Katowice",10 000 - 19 200 PLN,  javascript   REST   Node.js  ,Mid
+Citrix Engineer,ING Bank Śląski,"Remote, Warszawa, Katowice",10 500 - 15 000 PLN,  hardware konfiguracja utrzymanie wymiana ,Mid
+.NET Developer,7N,Warszawa,15 900 - 21 000 PLN,  .NET   C#   .NET Core  ,Mid
+Storage Specialist,Kyndryl,"Remote, Wrocław",, ,Mid
+DevOps Engineer [REMOTE],Kyndryl,"Remote, Wrocław",15 000 - 24 000 PLN, ,Mid
+Data Analyst / Survey Developer,Deloitte,Remote,,  HTML   CSS   JavaScript  ,Mid
+Consultant CAD/PLM,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",, ,Mid
+Backend Java Developer,PKO BP Finat,"Poznań, Warszawa",,  Java   Spring Boot  ,Mid
+Analityk IT (biznesowo-systemowy),PKO BP Finat,Warszawa,,  SQL.  ,Mid
+Delivery Manager - BI,Sii Polska,"Remote, Białystok, Bydgoszcz i 12 więcej",, ,Mid
+Mid/Senior Ruby Developer,The Codest,"Remote, Kraków",10 000 - 21 000 PLN,  Ruby   Ruby on Rails   PostgreSQL  ,Mid
+Mid/Senior Java Developer,The Codest,"Remote, Kraków",10 000 - 21 000 PLN,  Java   Spring Boot   Spring Security  ,Mid
+DevOps Engineer,Infolet,Kraków,19 200 - 24 000 PLN,"  devops, docker, aws ",Mid
+Mid/Senior React Developer,The Codest,"Remote, Kraków",10 000 - 21 000 PLN,  React  ,Mid
+Application Support Engineer (Big Data),Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",,  MySQL   Linux   Unix  ,Mid
+Automation Tester,7N,"Remote, Warszawa",19 300 - 23 500 PLN,  Karate   Cucumber   Gherkin  ,Mid
+Business Expert - Cluster Management,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",, ,Mid
+Konsultant/Starszy Konsultant w Business Advisory - Shared Service and Outsourcing Advisory (SSOA),KPMG w Polsce ,"Remote, Warszawa, Kraków i 5 więcej",, ,Mid
+.NET Developer,Trimtab Arteria Management Sp. zo.o. S.K.,Warszawa,10 000 - 15 000 PLN,  Zrób następny krok w swoim rozwoju ,Mid
+Business and System CRM Analyst,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  XML  ,Mid
+Data Engineer/Data Analyst,Power Media,"Remote, Katowice, Kraków",,  SQL   Python   R  ,Mid
+Mid Full Stack Java Developer,Oakfusion Sp. z o.o.,"Remote, Wrocław",10 000 - 20 000 PLN,  Java/Frontend/Cloud newest stack ,Mid
+Linux Engineer / DevOps,EuroLinux Sp. z o. o.,"Kraków, Warszawa",7 000 - 15 000 PLN,  Linux   CentOS   Enterprise  ,Mid
+Chapter Lead - Models,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",, ,Mid
+Mid Frontend Developer,Oakfusion Sp. z o.o.,"Remote, Wrocław",10 000 - 20 000 PLN,  Java/Frontend/Cloud newest stack ,Mid
+Java Developer (Oracle Commerce),Hycom,"Remote, Łódź, Toruń, Warszawa",,  Java/ATG ,Mid
+SAPUI5 Developer,LeverX Group,Wrocław,,  SAPUI5   HTML   JavaScript  ,Mid
+Data Scientist,LeverX Group,Wrocław,,  Data Science  ,Mid
+QA Engineer,Diebold Nixdorf,Wrocław,,  MS SQL   T-SQL  ,Mid
+Quality Assurance Consultant,SAP Labs Polska,"Remote, Gliwice, Kraków, Wrocław",,  | Java/JavaScript/Python | Agile | ,Mid
+Quality Assurance (QA) Engineer / Tester,Diebold Nixdorf,Katowice,,  API testing   Confluence  ,Mid
+Manual QA Test Engineer,Diebold Nixdorf,Katowice,,  .NET Core   MS SQL   SQL  ,Mid
+Data Engineer,LeverX Group,Wrocław,,  Java   Python   SQL  ,Mid
+QA Automation Test Engineer,Diebold Nixdorf,"Remote, Katowice",,  QA Automation ,Mid
+Business Analyst,LeverX Group,Wrocław,,  BA  ,Mid
+.Net Developer - Solutions Development,KPMG w Polsce ,Warszawa,12 000 - 15 000 PLN,  ASP.NET   .NET Core   JavaScript  ,Mid
+Front-end Angular Developer,KPMG w Polsce ,"Remote, Warszawa",9 000 - 15 000 PLN,  Angular  ,Mid
+Project Manager,LeverX Group,Wrocław,,  PM  ,Mid
+Dynamics 365 CE Developer,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN,  .NET   C#  ,Mid
+Dynamics365 CE Consultant,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN, ,Mid
+Java Developer,KRUK S.A.,"Remote, Wrocław",,  Java   Spring   Spring Boot  ,Mid
+Dynamics 365 F&O Developer,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN,  Azure  ,Mid
+Dynamics 365 F&O Consultant,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN, ,Mid
+DevOps Engineer (Linux),LeverX Group,Wrocław,,  DevOps  ,Mid
+Golang Developer,LeverX Group,Wrocław,,  Go   English   NoSQL  ,Mid
+Software Developer (C++),ONWELO SA,"Remote, Kraków, Warszawa i 3 więcej",12 000 - 22 000 PLN,  C++   Qt  ,Mid
+Frontend Developer (Angular),Power Media,Warszawa,,  Angular   JavaScript     TypeScript  ,Mid
+Frontend Developer,LeverX Group,Wrocław,,  HTML5   JavaScript   CSS3  ,Mid
+Java Developer,LeverX Group,Wrocław,,  Java   SQL    OOP  ,Mid
+Back-End Engineer (scala),relayr sp. z o.o.,Remote,9 000 - 19 500 PLN,  java   python   scala  ,Mid
+Full Stack Engineer (NodeJS/React) (m/f/d),relayr sp. z o.o.,"Remote, Katowice",10 000 - 19 200 PLN,  javascript   REST   Node.js  ,Mid
+Citrix Engineer,ING Bank Śląski,"Remote, Warszawa, Katowice",10 500 - 15 000 PLN,  hardware konfiguracja utrzymanie wymiana ,Mid
+.NET Developer,7N,Warszawa,15 900 - 21 000 PLN,  .NET   C#   .NET Core  ,Mid
+Storage Specialist,Kyndryl,"Remote, Wrocław",, ,Mid
+DevOps Engineer [REMOTE],Kyndryl,"Remote, Wrocław",15 000 - 24 000 PLN, ,Mid
+Data Analyst / Survey Developer,Deloitte,Remote,,  HTML   CSS   JavaScript  ,Mid
+Consultant CAD/PLM,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",, ,Mid
+Backend Java Developer,PKO BP Finat,"Poznań, Warszawa",,  Java   Spring Boot  ,Mid
+Analityk IT (biznesowo-systemowy),PKO BP Finat,Warszawa,,  SQL.  ,Mid
+Delivery Manager - BI,Sii Polska,"Remote, Białystok, Bydgoszcz i 12 więcej",, ,Mid
+Mid/Senior Ruby Developer,The Codest,"Remote, Kraków",10 000 - 21 000 PLN,  Ruby   Ruby on Rails   PostgreSQL  ,Mid
+Mid/Senior Java Developer,The Codest,"Remote, Kraków",10 000 - 21 000 PLN,  Java   Spring Boot   Spring Security  ,Mid
+DevOps Engineer,Infolet,Kraków,19 200 - 24 000 PLN,"  devops, docker, aws ",Mid
+Mid/Senior React Developer,The Codest,"Remote, Kraków",10 000 - 21 000 PLN,  React  ,Mid
+Application Support Engineer (Big Data),Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",,  MySQL   Linux   Unix  ,Mid
+Automation Tester,7N,"Remote, Warszawa",19 300 - 23 500 PLN,  Karate   Cucumber   Gherkin  ,Mid
+Business Expert - Cluster Management,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",, ,Mid
+Konsultant/Starszy Konsultant w Business Advisory - Shared Service and Outsourcing Advisory (SSOA),KPMG w Polsce ,"Remote, Warszawa, Kraków i 5 więcej",, ,Mid
+.NET Developer,Trimtab Arteria Management Sp. zo.o. S.K.,Warszawa,10 000 - 15 000 PLN,  Zrób następny krok w swoim rozwoju ,Mid
+Business and System CRM Analyst,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  XML  ,Mid
+Data Engineer/Data Analyst,Power Media,"Remote, Katowice, Kraków",,  SQL   Python   R  ,Mid
+Mid Full Stack Java Developer,Oakfusion Sp. z o.o.,"Remote, Wrocław",10 000 - 20 000 PLN,  Java/Frontend/Cloud newest stack ,Mid
+Linux Engineer / DevOps,EuroLinux Sp. z o. o.,"Kraków, Warszawa",7 000 - 15 000 PLN,  Linux   CentOS   Enterprise  ,Mid
+Chapter Lead - Models,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",, ,Mid
+Mid Frontend Developer,Oakfusion Sp. z o.o.,"Remote, Wrocław",10 000 - 20 000 PLN,  Java/Frontend/Cloud newest stack ,Mid
+Java Developer (Oracle Commerce),Hycom,"Remote, Łódź, Toruń, Warszawa",,  Java/ATG ,Mid
+SAPUI5 Developer,LeverX Group,Wrocław,,  SAPUI5   HTML   JavaScript  ,Mid
+Data Scientist,LeverX Group,Wrocław,,  Data Science  ,Mid
+QA Engineer,Diebold Nixdorf,Wrocław,,  MS SQL   T-SQL  ,Mid
+Quality Assurance Consultant,SAP Labs Polska,"Remote, Gliwice, Kraków, Wrocław",,  | Java/JavaScript/Python | Agile | ,Mid
+Quality Assurance (QA) Engineer / Tester,Diebold Nixdorf,Katowice,,  API testing   Confluence  ,Mid
+Manual QA Test Engineer,Diebold Nixdorf,Katowice,,  .NET Core   MS SQL   SQL  ,Mid
+Data Engineer,LeverX Group,Wrocław,,  Java   Python   SQL  ,Mid
+QA Automation Test Engineer,Diebold Nixdorf,"Remote, Katowice",,  QA Automation ,Mid
+Business Analyst,LeverX Group,Wrocław,,  BA  ,Mid
+.Net Developer - Solutions Development,KPMG w Polsce ,Warszawa,12 000 - 15 000 PLN,  ASP.NET   .NET Core   JavaScript  ,Mid
+Front-end Angular Developer,KPMG w Polsce ,"Remote, Warszawa",9 000 - 15 000 PLN,  Angular  ,Mid
+Project Manager,LeverX Group,Wrocław,,  PM  ,Mid
+Dynamics 365 CE Developer,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN,  .NET   C#  ,Mid
+Dynamics365 CE Consultant,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN, ,Mid
+Java Developer,KRUK S.A.,"Remote, Wrocław",,  Java   Spring   Spring Boot  ,Mid
+Dynamics 365 F&O Developer,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN,  Azure  ,Mid
+Dynamics 365 F&O Consultant,KPMG w Polsce ,"Remote, Warszawa",11 000 - 18 000 PLN, ,Mid
+DevOps Engineer (Linux),LeverX Group,Wrocław,,  DevOps  ,Mid
+Golang Developer,LeverX Group,Wrocław,,  Go   English   NoSQL  ,Mid
+Software Developer (C++),ONWELO SA,"Remote, Kraków, Warszawa i 3 więcej",12 000 - 22 000 PLN,  C++   Qt  ,Mid
+Frontend Developer (Angular),Power Media,Warszawa,,  Angular   JavaScript     TypeScript  ,Mid
+Frontend Developer,LeverX Group,Wrocław,,  HTML5   JavaScript   CSS3  ,Mid
+Java Developer,LeverX Group,Wrocław,,  Java   SQL    OOP  ,Mid
+.NET Developer,LeverX Group,Wrocław,,  .NET   Git  ,Mid
+Python Developer,LeverX Group,Wrocław,,  Python   REST   PostgreSQL  ,Mid
+Data Architect,Power Media,Katowice,,  SQL   Python   R  ,Mid
+Node.js Developer,LeverX Group,Wrocław,,  Node.js   MongoDB   MySQL  ,Mid
+ABAP Developer,LeverX Group,Wrocław,,  ABAP   SAP   MS Dynamics  ,Mid
+Java Developer,Sollers Consulting,"Warszawa, Poznań, Lublin i 3 więcej",9 500 - 18 000 PLN,"  OOP, Java, Spring ",Mid
+IOS Developer,LeverX Group,Wrocław,,  iOS   C++   Core Data  ,Mid
+Frontend Developer,LiveKid ,Kraków,10 000 - 15 000 PLN,  |JavaScript| |HTML| |CSS/SCSS| |Vue| ,Mid
+Programista Java,DOZ S.A.,"Remote, Warszawa, Łódź",Znamy widełki,  Java  ,Mid
+JavaScript Engineer,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  JavaScript   Node.js  ,Mid
+Oracle Database Administrator,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  Oracle Database   MySQL  ,Mid
+.NET Full-stack Developer (mid/senior),7N,"Remote, Warszawa",16 800 - 24 500 PLN,  MS SQL Server   C#   .NET  ,Mid
+Java Developer,Sii Polska,"Remote, Katowice, Gliwice i 11 więcej",15 000 - 24 000 PLN,  Java 11   Spring   Spring Boot  ,Mid
+Front-end Developer,Sii Polska,"Remote, Warszawa, Gdańsk i 11 więcej",13 000 - 18 000 PLN,  JavaScript   HTML   CSS  ,Mid
+API Specialist,T-Mobile Polska S. A.,Warszawa,, ,Mid
+Java Developer,ONWELO SA,"Remote, Katowice, Kraków",16 800 - 25 200 PLN,  Java   Spring   REST  ,Mid
+C Embedded Developer,Sii Polska,"Gdańsk, Białystok, Bydgoszcz i 10 więcej",,  Embedded ,Mid
+C++ Developer,Sii Polska,"Remote, Katowice, Gliwice, Częstochowa",14 000 - 16 000 PLN,  C++   Linux   JIRA  ,Mid
+Quality Assurance Engineer,Monterail,"Remote, Wrocław",5 800 - 11 000 PLN,  JIRA   Git  ,Mid
+Solution / IT Architect,Kredyt Inkaso SA,"Lublin, Warszawa, Wrocław, Gdańsk",16 000 - 19 000 PLN,  Architekt IT ,Mid
+Programista SAS/SQL,Grupa PZU,Warszawa,,"  hurtownia danych, business intelligence ",Mid
+PHP Developer,LSI Software S.A.,Łódź,6 000 - 13 400 PLN,  #PHP#web#symfony ,Mid
+Android Developer,Altimi Solutions,Wrocław,,  przełomowy produkt w branży automotive ,Mid
+Backend Java Developer,PKO BP Finat,"Poznań, Warszawa",,  Java   Spring Boot   Spring  ,Mid
+.NET Developer,KRUK S.A.,"Remote, Wrocław",,  .NET   .NET Core   C#  ,Mid
+Software Development Manager,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,, ,Mid
+QA Assurance Engineer,Medius,"Remote, Kraków",,  Medius ,Mid
+Linux Platform Engineer,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,, ,Mid
+Java Cloud Developer,SAP Labs Polska,"Gliwice, Katowice, Łódź",,  | Java | Agile | SAP | RDBMS | SQL | ,Mid
+System Configuration and Test Engineer,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,, ,Mid
+Cloud Software Developer,SAP Labs Polska,"Remote, Warszawa, Gdańsk, Gliwice",,  | Java | Spring | Agile | ,Mid
+Java Cloud Developer,SAP Labs Polska,"Remote, Warszawa, Gdańsk, Gliwice",,  | Java | Spring | UI | SAP | Git | ,Mid
+Mobile application software engineer (React Native/Flutter) - WatchGuard,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  Android and   or iOS)   Swift  ,Mid
+Release Train Engineer,SAP Labs Polska,"Remote, Warszawa, Gdańsk, Gliwice",,  Agile ,Mid
+Cloud Developer for SAP's Product & Material Master Data,SAP Labs Polska,"Remote, Warszawa, Poznań, Gliwice",,  | SAP | CRM | Git | JavaScript | ,Mid
+Scrum Master – Salesforce,Sii Polska,"Remote, Białystok, Częstochowa i 10 więcej",,  Scrum   JIRA   Confluence  ,Mid
+FullStack Developer,SAP Labs Polska,"Remote, Warszawa, Poznań, Gliwice",,  |HTML|CSS|JavaScript|Python|Java| ,Mid
+Administrator Windows,PKO BP Finat,"Warszawa, Poznań, Wrocław",,  Windows  ,Mid
+Administrator Windows,PKO BP Finat,"Warszawa, Poznań, Wrocław",,  Windows  ,Mid
+Mobile Applications Software Engineer (Flutter)- MultiSight,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  React Native   Flutter  ,Mid
+Administrator LAN/WAN (Fortinet),PKO BP Finat,"Warszawa, Wrocław, Poznań",, ,Mid
+DevOps Engineer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Jenkins   REST   Python  ,Mid
+ETL Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  PL/SQL  ,Mid
+JavaScript Developer,PKO BP Finat,Poznań,,  Javascript   HTML5   CSS3  ,Mid
+Sales Support Consultant,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",, ,Mid
+QA Competence Center Manager,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",, ,Mid
+Scrum Master,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,, ,Mid
+Scrum Master,PKO BP Finat,Wrocław,Znamy widełki,  Scrum   Agile  ,Mid
+AWS DevOps Engineer,Sigma IT Poland,"Remote, Wrocław",18 000 - 25 200 PLN,  exploration of genomics signals ,Mid
+Software Tester,Adamed Pharma S.A.,Kraków,,  C# lub Java ,Mid
+SysOps (AWS),Sigma IT Poland,Remote,10 000 - 17 800 PLN,  SysOps AWS Python  ,Mid
+ODI Developer (Data Warehousing),Sigma IT Poland,Remote,15 000 - 23 500 PLN,"  ODI, Oracle, SQL, DWH ",Mid
+QA Engineer Automation,Luxoft Poland,Remote,,  AWS   Agile  ,Mid
+Back-End developer Java,Luxoft Poland,Remote,,  Git   Hibernate   Java  ,Mid
+Requirement Engineer,Nokia,Kraków,,  C++ ,Mid
+QA Engineer Automation,Luxoft Poland,Remote,,  AWS   Agile  ,Mid
+QA Engineer Automation,Luxoft Poland,Remote,,  AWS   Agile  ,Mid
+QA Engineer Automation,Luxoft Poland,Remote,,  AWS   Agile  ,Mid
+[Data Technology] Software Engineer in Test,Luxoft Poland,Remote,,  CI   Confluence  ,Mid
+System Analyst,Luxoft Poland,"Remote, Kraków",,  Agile   BPMN   SQL  ,Mid
+System Analyst,Luxoft Poland,"Remote, Kraków",,  Agile   BPMN   SQL  ,Mid
+Regular DevOps Engineer,Luxoft Poland,Remote,,  Agile   JIRA   Kubernetes  ,Mid
+Integration Specialist / DevOps Engineer,Luxoft Poland,"Remote, Kraków",,  Azure   Azure   Bash  ,Mid
+Java Developer,Luxoft Poland,Remote,,  J2EE   Java   MySQL  ,Mid
+Test manager ADAS,Luxoft Poland,Remote,, ,Mid
+Data Protection/Application Security Project Manager,Luxoft Poland,Warszawa,, ,Mid
+QA Engineer,Luxoft Poland,Wrocław,,  Agile   ETL   JIRA  ,Mid
+DevOps (Linux Environment),Luxoft Poland,Remote,,  Linux   VMware   Windows  ,Mid
+QA & Cybersecurity Engineer/Manager,Luxoft Poland,Remote,, ,Mid
+Full Stack Software Developer,Luxoft Poland,Remote,,  C#   CI   Git  ,Mid
+Project Management Assistant,Luxoft Poland,Kraków,,  Excel   Word  ,Mid
+Training Administrator Poland,Luxoft Poland,Kraków,, ,Mid
+Azure DevOps,Luxoft Poland,Wrocław,,  Excel   Linux   Word  ,Mid
+.NET Developer,Luxoft Poland,Remote,,  .NET   C#   PL/SQL  ,Mid
+PowerBuilder Developer,Luxoft Poland,Remote,,  Agile   Oracle Database   PL/SQL  ,Mid
+Embedded Audio Machine Learning Engineer,Luxoft Poland,Remote,,  Big Data   Linux  ,Mid
+QA Engineer,Luxoft Poland,Remote,,  Agile   Python   SQL  ,Mid
+Front-End developer,Luxoft Poland,Remote,,  Angular   JavaScript  ,Mid
+Data Base developer - MS SQL,Luxoft Poland,Remote,,  Agile   MS SQL   SQL  ,Mid
+Calypso Developer,Luxoft Poland,Remote,,  Java   Swift   XML  ,Mid
+IT Infrastructure System Engineer,Luxoft Poland,Kraków,,  Ansible   Puppet   Shell  ,Mid
+Software Developer Java Regular,Luxoft Poland,Wrocław,,  Hibernate   JUnit   Java  ,Mid
+DevOps Engineer with Azure,Luxoft Poland,Wrocław,,  Azure   Azure   Confluence  ,Mid
+Automation Test Manager,Luxoft Poland,Wrocław,,  .NET   CI   Git  ,Mid
+IT System Engineer with Windows Server,Luxoft Poland,"Remote, Kraków",,  Windows   Windows Server  ,Mid
+Release and integration engineer,Luxoft Poland,Wrocław,,  Ansible   Bash   Docker  ,Mid
+FullStack developer,Luxoft Poland,Kraków,,  Java   JavaScript   React  ,Mid
+.Net Developer,Luxoft Poland,Remote,,  .NET   .NET Core   C#  ,Mid
+Regular C++ Software Developer,Luxoft Poland,Wrocław,,  C++   Java   Linux  ,Mid
+Quality Assurance Tester,Luxoft Poland,Remote,,  Agile   JIRA  ,Mid
+React Frontend Developers,Luxoft Poland,Remote,,  CSS   Git   HTML5  ,Mid
+Azure Operations Engineer,Luxoft Poland,Remote,,  AWS   Azure   Apache  ,Mid
+.Net Back-end developer,Luxoft Poland,Remote,,  .NET   Git   JIRA  ,Mid
+Functional Analyst (Enterprise Architect experience - must),Luxoft Poland,Remote,, ,Mid
+Test Automation Engineer,Luxoft Poland,Wrocław,,  Android   Appium  ,Mid
+C/C++ Regular Software developer,Luxoft Poland,Wrocław,,  C++   Python  ,Mid
+BigData\Scala Developer,Luxoft Poland,Remote,,  Agile   Git   Hadoop  ,Mid
+Sophis upgrade engineers,Luxoft Poland,Remote,,  Agile   PowerShell  ,Mid
+QA Automation Engineer,Luxoft Poland,Wrocław,,  Agile   BDD   CI  ,Mid
+Regulatory Business Analysts,Luxoft Poland,Remote,, ,Mid
+Solution  Architect,Luxoft Poland,Remote,,  Big Data  ,Mid
+Calypso Analyst,Luxoft Poland,Remote,,  BPMN   UML  ,Mid
+Programista ETL Oracle / Informatica Power Center (IPC),mBank,"Remote, Warszawa, Łódź",,  JIRA   Confluence   Git  ,Mid
+Murex QA Consultant,Luxoft Poland,Warszawa,,  SQL  ,Mid
+Temenos Test Engineer,Luxoft Poland,Remote,,  CI   JIRA  ,Mid
+Business Intelligence Analyst (Qlik Sense),ONWELO SA,Remote,13 000 - 18 000 PLN,"  QlikSense, SQL, Alteryx ",Mid
+"DevOps (Ansible, Terraform, Python)",Luxoft Poland,Remote,,  Linux   Python   Ansible  ,Mid
+System Support Engineer DevOps,Luxoft Poland,Wrocław,,  Bash   CI   Jenkins  ,Mid
+Kotlin Developer,Sii Polska,Gdańsk,,  Kotlin ,Mid
+Java developer - full stack,Luxoft Poland,Remote,,  Agile   Angular   BDD  ,Mid
+Quantum Trax Specialist / Analyst,Luxoft Poland,Warszawa,,  SQL  ,Mid
+Lead React Native Developer (greenfield),From Poland With Dev,"Remote, Kraków, Bielsko-Biała",16 000 - 30 000 PLN,  VR startup z USA | polskie godziny pracy ,Mid
+DevOps engineer with Azure,Luxoft Poland,Remote,,  Azure   Azure   Python  ,Mid
+Fenergo Experienced QA,Luxoft Poland,Wrocław,,  .NET   ASP.NET   C#  ,Mid
+Fullstack .NET Developer,Online Solutions Sp. z o.o.,Wrocław,10 000 - 16 500 PLN,"  C#, ASP.NET Core / ASP.NET MVC / Web API ",Mid
+Java Developer,Luxoft Poland,Remote,,  Git   Java  ,Mid
+Data Engineer,Luxoft Poland,Remote,,  Apache   Composer   GCP  ,Mid
+WordPress Developer - fullstack,From Poland With Dev,"Remote, Kraków, Bielsko-Biała",7 000 - 16 000 PLN,"  mocny zespół, projekty z US ",Mid
+Programista Embedded C/C++,Enigma SOI,"Wrocław, Warszawa",Znamy widełki,  System Dozoru Elektronicznego  ,Mid
+C++ Software Engineer,Harvey Nash Technology,Łódź,12 000 - 17 000 PLN,  C++  ,Mid
+Full Stack Developer,Harvey Nash Technology,Katowice,Do 22 000 PLN,  C#   .NET   Angular  ,Mid
+Programista C++/Qt,Felder Group Polska Sp. z o.o.,Żory,9 000 - 16 000 PLN,  Qt   C++   Git  ,Mid
+Salesforce Developer,Harvey Nash Technology,Warszawa,Do 36 000 PLN,  Salesforce   ETL   Informatica  ,Mid
+Mid / Senior DevOps Engineer,The WorkinGroup,Remote,23 100 - 27 300 PLN,  AWS oriented ,Mid
+Java Engineer,Harvey Nash Technology,"Remote, Gdańsk, Wrocław, Kraków",18 000 - 28 000 PLN,  Java   Spring   REST  ,Mid
+React Developer - eCatholic (greenfield),From Poland With Dev,"Remote, Kraków, Bielsko-Biała",15 000 - 26 000 PLN,  nowoczesny stack i projekt z misją ,Mid
+.NET Core Developer (Mid/Senior),CSHARK Sp. z o. o.,"Remote, Wrocław, Katowice, Bielsko-Biała",13 000 - 21 000 PLN,  |C#| |.NET Core| |DDD| ,Mid
+Android Developer (Mid/Senior),CSHARK Sp. z o. o.,"Remote, Wrocław, Katowice, Bielsko-Biała",16 800 - 22 700 PLN,  |Android SDK| |Kotlin| |RxJava| ,Mid
+QA Engineer,Blees sp. z o.o. ,Gliwice,8 000 - 13 000 PLN,  Tworzymy transport przyszłości. ,Mid
+Support Engineer,CSHARK Sp. z o. o.,"Remote, Wrocław, Katowice, Bielsko-Biała",14 500 - 17 000 PLN,  |C# / .NET| |T-SQL| |PL/SQL| ,Mid
+Tester automatyzujący - Salesforce,Sii Polska,"Remote, Białystok, Częstochowa i 10 więcej",,  Salesforce   Apex   JavaScript  ,Mid
+Embedded Software Engineer,Sieć Badawcza Łukasiewicz- Instytut Lotnictwa,Warszawa,,  Przemysł Lotniczy ,Mid
+Tester Automatyzujący,Grupa PZU,Remote,,  Budowa nowego systemu Assistance ,Mid
+MS SQL Database Administrator,Kyndryl,"Remote, Katowice",,  T-SQL   MS SQL   SharePoint  ,Mid
+Programista C Embedded,Sii Polska,"Remote, Gdańsk",,  Embedded ,Mid
+Front-end Developer,Sii Polska,"Remote, Gdańsk, Warszawa i 11 więcej",,  Developer ,Mid
+Konsultant ds. wdrożeń systemu ERP,Power Media,Kraków,, ,Mid
+Embedded Linux Developer - R&D project,Sii Polska,"Gdańsk, Warszawa, Wrocław i 10 więcej",10 000 - 22 000 PLN,  Embedded ,Mid
+Fullstack .NET Developer,ONWELO SA,"Remote, Kraków, Warszawa",14 000 - 21 000 PLN,  .NET   C#  ,Mid
+Java Developer,ONWELO SA,"Remote, Warszawa, Gdańsk",8 500 - 18 900 PLN,  Java   Spring   Hibernate  ,Mid
+Mobile Tester,Sii Polska,"Remote, Kraków, Warszawa i 12 więcej",5 000 - 9 000 PLN,  Postman   SoapUI   Firebase  ,Mid
+Administrator/Koordynator SAP w obszarze Produkcji,Inter Europol,Marki,,  SAP: S4/HANA ,Mid
+Front-end React Developer ,ONWELO SA,"Remote, Warszawa, Lublin",6 500 - 16 000 PLN,  JavaScript   HTML5   CSS3  ,Mid
+QA Automation Engineer with Python,Sii Polska,"Remote, Kraków",,  Python   Selenium  ,Mid
+Magento Backend Developer,STRIX,"Remote, Kraków",8 300 - 20 000 PLN,  Pasjonaci Magento budujący e-commerce ,Mid
+"DevOps Consultant, R&D Systems Engineer",GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+"DevOps Consultant, Veeva Vault System Engineer",GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+"Programista Full stack (Java, Angular)",Asseco Poland S.A.,Katowice,,  Java   Angular   MySQL  ,Mid
+Data Analyst,GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+"Programista Full stack (Java, Angular)",Asseco Poland S.A.,Wrocław,,  Java   Angular   MySQL  ,Mid
+Analityk IT,Grupa PZU,Warszawa,,  projekt CRM ,Mid
+Scala Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Scala   Java  ,Mid
+Clickhouse Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  AWS   Docker   Python  ,Mid
+Analityk biznesowy/ Konsultant ds. wdrażania systemów do obiegu dokumentów,BMM,"Rzeszów, Kraków, Lublin i 2 więcej",Znamy widełki,  Linux   Windows Server   ERP  ,Mid
+Business Intelligence Developer,C&F,"Remote, Warszawa",,  Power BI ,Mid
+QA Engineer,ING Bank Śląski,"Remote, Katowice, Warszawa",,"  REST API, JSON ",Mid
+Programista .NET,CENEO.PL,Wrocław,,  Azure ,Mid
+Atlassian Specialist,Diebold Nixdorf,"Remote, Wrocław",Znamy widełki, ,Mid
+React Developer,Solidstudio Sp. z o.o. ,"Remote, Kraków, Gliwice i 2 więcej",16 800 - 23 100 PLN,  Mid/Senior React Developer ,Mid
+ServiceNow Platform Architect,ONWELO SA,"Remote, Warszawa, Kraków",,  CSDM   ServiceNow  ,Mid
+Inżynier Systemowy / Devops,nazwa.pl ,"Remote, Kraków",Do 20 000 PLN,  Linux   Ansible   PostgreSQL  ,Mid
+Tester Manualny,PKO BP Finat,Warszawa,,  JIRA  ,Mid
+Senior Application Database Engineer,GSK Tech Global Centre in Poznan,Poznań,,  MS SQL   Oracle Database   MongoDB  ,Mid
+Cloud Engineer,PKO BP Finat,"Remote, Warszawa",,  Azure   GCP   Kubernetes  ,Mid
+Chapter Lead for Development,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Chapter Lead Application Administration,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+DevOps Cloud Engineer,ONWELO SA,Remote,19 200 - 24 000 PLN,  AWS   GCP   Azure  ,Mid
+Database Engineer - Risk Quality,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Business Analyst - Digital Strategy & Architecture,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Java Software Support Engineer,CIsco,"Remote, Kraków",,  Java   Docker   Kubernetes  ,Mid
+.NET Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  ASP.Net   C#    JavaScript  ,Mid
+Software Engineer (Remote/Hybrid),CIsco,"Remote, Kraków",,  AWS   Java  ,Mid
+Use Case Operations Engineer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  UNIX   LINUX    SQL  ,Mid
+Software Engineering Technical Leader (Remote/Hybrid),CIsco,"Remote, Kraków",,  AWS   Java  ,Mid
+Junior/Mid Specialist in Model Validation,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Firmware Architect,Sii Polska,Gdańsk,,"  Firmware, Embedded ",Mid
+ETL Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  ETL   Informatica  ,Mid
+Scrum Master - Trade Finance,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Agile  ,Mid
+Python Data Developer (Microservices),ONWELO SA,"Remote, Warszawa, Kraków",17 000 - 23 000 PLN,"  Python, Microservices, Kubernetes ",Mid
+DevOps Engineer Commerzbank,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Kubernetes   CI   CD   ,Mid
+Cloud Engineer (GCP),Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",Znamy widełki,  Docker   Kubernetes   Bash  ,Mid
+Full-Stack Java Developer ,ONWELO SA,"Remote, Warszawa, Lublin",9 000 - 18 900 PLN,  Java   TypeScript   JavaScript  ,Mid
+Test Coordinator,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Azure  ,Mid
+Python Developer with GCP,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",Znamy widełki,  Python   Kubernetes   Docker  ,Mid
+Angular Developer,ONWELO SA,"Remote, Warszawa, Gdańsk",8 500 - 18 900 PLN,  JavaScript   TypeScript   Angular  ,Mid
+"Fullstack Developer - React, Java - Commerzbank",Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  React   JavaScript     TypeScript  ,Mid
+Java Developer for beOne,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java  ,Mid
+Java Developer (Healthcare),ONWELO SA,"Remote, Warszawa, Lublin",11 000 - 14 000 PLN,  Java   Spring   Hibernate  ,Mid
+Big Data Engineer – Hadoop,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Big Data   Hadoop   ETL  ,Mid
+Java Developer Commerzbank,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   Spring   Hibernate  ,Mid
+Front-end developer,ONWELO SA,"Remote, Warszawa, Gdańsk",9 000 - 18 900 PLN,  JavaScript   TypeScript   HTML  ,Mid
+Automation tester Commerzbank,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Application Engineer Commerzbank,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  SQL   Unix   Linux  ,Mid
+Node.js Developer,ONWELO SA,"Remote, Warszawa, Gdańsk",8 500 - 18 900 PLN,  Node.js   JavaScript   TypeScript  ,Mid
+Oracle Administrator (DBS Operations),Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  SQL   Unix    Linux  ,Mid
+IT Business Analyst,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",Znamy widełki, ,Mid
+Security Analyst / Analityk SOC,Power Media,Wrocław,Znamy widełki, ,Mid
+Database Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Oracle Database   PL/SQL   Shell scripting  ,Mid
+Java Developer Backend,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   Spring  ,Mid
+FrontEnd Developer,Edrone,"Remote, Kraków",,  JavaScript ,Mid
+Ruby on Rails Developer,Polcode Sp. z o.o.,"Remote, Warszawa, Kraków, Białystok",7 000 - 18 000 PLN,  Ruby   Ruby on Rails   MySQL  ,Mid
+Software engineer,ABB,Kraków,,"  Python, Azure ",Mid
+QA Engineer (C#),ABB,Kraków,,  for Smart Buildings ,Mid
+BI Developer,Power Media,Warszawa,,  Oracle SQL   PL/SQL   ETL  ,Mid
+Full Stack .NET Developer,ABB,Kraków,,"  JavaScript/TypeScript, HTML 5, CSS React ",Mid
+Architekt rozwiązań eCommerce,Power Media,"Remote, Wrocław",,  Magento     Shopware     Spryker   ,Mid
+Java Software Engineer,Power Media,"Remote, Kraków",,  Java   Spring Boot  ,Mid
+Programista Informatica PowerCenter,mBank,"Remote, Warszawa, Łódź",,  ETL  ,Mid
+Java Developer ,Power Media,"Poznań, Wrocław",,  Java    Oracle   SQL Server  ,Mid
+Java Developer ,Power Media,"Remote, Wrocław",,  Java    Spring Boot   Agile  ,Mid
+Test Engineer,Sigma IT Poland,"Remote, Wrocław, Wrocław",15 400 - 21 000 PLN,  Cypress Test Automation  ,Mid
+IT Systems Integration Specialist (Webservices),Power Media,"Warszawa, Kraków",,  SOAP   REST   API  ,Mid
+IT Systems Integration Specialist (REST / SOAP),Power Media,"Warszawa, Kraków",,  SOAP   REST   API  ,Mid
+Teradata Developer,Business Reporting Solutions,"Wrocław, Kraków, Poznań",19 200 - 28 800 PLN,"  Teradata, Linux/Unix, Shell ",Mid
+IT Systems Integration Specialist (SQL),Power Media,"Warszawa, Kraków",,  SQL   T-SQL   PL/SQL  ,Mid
+Java Software Developer,Power Media,Wrocław,,  Java    Spring   JUnit  ,Mid
+Java Developer,Sii Polska,"Remote, Suwałki, Olsztyn i 7 więcej",,  Java   MS SQL   XML  ,Mid
+Python Developer,Power Media,Wrocław,Znamy widełki,  Python   .NET  ,Mid
+Java Developer,Sii Polska,"Remote, Gdańsk, Warszawa i 20 więcej",,  Java   SQL   MariaDB  ,Mid
+ETL Developer,Lingaro ,Remote,,  T-SQL   MS SQL   Azure  ,Mid
+Sustainability Business Analyst,Lingaro ,Remote,, ,Mid
+Mid Full Stack Developer,TMS Poland Sp.zo.o.,"Łódź, Bytom",10 000 - 18 000 PLN,  C#/.NET ,Mid
+Fullstack developer (.NET/React),mBank,"Remote, Warszawa, Łódź",,  C#   ASP.NET   .NET Core  ,Mid
+System Administrator,Polcode Sp. z o.o.,"Remote, Warszawa, Kraków, Białystok",,  Linux   Windows   Docker  ,Mid
+Test Engineer (Python),Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  Python  ,Mid
+Frontend Developer,Power Media,Kraków,,  Angular     React     Vue   ,Mid
+React Native Developer,Sofomo,"Remote, Wrocław",14 000 - 19 000 PLN,"  React Native, Remote or Wroclaw ",Mid
+SAP Consultant,IPOPEMA Business Consulting,Warszawa,Znamy widełki,  ERP   SAP   S4HANA  ,Mid
+Regular DevOps Engineer,HARMAN Connected Services Poland ,Remote,10 000 - 24 000 PLN,  DevOps ,Mid
+Java Developer (Automotive),ONWELO SA,"Warszawa, Gdańsk",8 500 - 18 900 PLN,  Java   Spring   Hibernate  ,Mid
+Technical Application Consultant,Power Media,Wrocław,,  SQL  ,Mid
+JSE/JEE Developer (Automotive),ONWELO SA,"Warszawa, Gdańsk, Lublin",8 500 - 18 900 PLN,  Java SE   Docker   OpenShift  ,Mid
+Business Intelligence Analyst,ONWELO SA,Remote,13 000 - 17 000 PLN,"  QlikSense, SQL, Alteryx, IBM Cognos ",Mid
+Graphics Software Developer,Luxoft Poland,Gdańsk,,  C   C++   Linux  ,Mid
+Release and Integration Engineer,Luxoft Poland,"Gdańsk, Wrocław",,  Bash   CI   Git  ,Mid
+Managed File Transfer (MFT) Analyst with Axway Secure,Luxoft Poland,Kraków,,  Azure   Azure   Bash  ,Mid
+Data Analyst/ Data Modeller,Luxoft Poland,Remote,,  Java   NoSQL   Python  ,Mid
+Project Manager,Luxoft Poland,Warszawa,,  Agile  ,Mid
+Project Manager/PMO,Luxoft Poland,Remote,,  Agile   Foundation  ,Mid
+Environment Support Engineer,Luxoft Poland,Kraków,,  AWS   Azure   Azure  ,Mid
+SNOW Developer,Luxoft Poland,Remote,,  JavaScript  ,Mid
+Release / Project Manager,Luxoft Poland,Kraków,,  JIRA  ,Mid
+Java Software Engineer,Luxoft Poland,Kraków,,  Agile   JSON   Java  ,Mid
+DevOps Engineer,Luxoft Poland,Remote,,  Azure   Azure   Bash  ,Mid
+DevOps Engineer,Luxoft Poland,Kraków,,  Git  ,Mid
+Java / DevOps Engineer,Luxoft Poland,Kraków,,  Agile   CI  ,Mid
+QA Automation Engineer,Luxoft Poland,Kraków,,  SQL   Selenium  ,Mid
+Java / FA,Luxoft Poland,Kraków,,  Agile   CI  ,Mid
+Test automation Engineer Selenium (Python or Typescript),Luxoft Poland,Remote,,  CI   Python   Selenium  ,Mid
+Solution Architect,Luxoft Poland,Remote,,  AWS   C   C++  ,Mid
+IT Business Analyst CCAR,Luxoft Poland,"Remote, Kraków",,  Agile   Confluence   Excel  ,Mid
+Service Analyst with Automation,Luxoft Poland,Kraków,,  ELK   JIRA  ,Mid
+Analityk ds. analiz i optymalizacji procesów / process mining,mBank,"Remote, Warszawa",,  Python   Power BI  ,Mid
+Azure IoT Developer (C#/.Net),Luxoft Poland,Remote,,  .NET   Azure   Azure  ,Mid
+Regular Software developer,Luxoft Poland,Wrocław,,  C++   Git   Python  ,Mid
+iOS Developer,7N,Remote,21 800 - 26 800 PLN,  Swift   Objective-C   Xcode  ,Mid
+DevOps Engineer,Luxoft Poland,Wrocław,,  Azure   Agile   Ansible  ,Mid
+Business Analyst,Luxoft Poland,Kraków,,  Agile   Confluence   JIRA  ,Mid
+Ruby Developer,Sofomo,"Remote, Wrocław",12 000 - 21 000 PLN,  #Ruby on Rails #Remote ,Mid
+Software Developer (CUDA),Luxoft Poland,Remote,,  C++   Python  ,Mid
+Technical Project Manager/ Release Manager,Luxoft Poland,Remote,,  Agile  ,Mid
+Backend DAM Engineer,Sigma IT Poland,"Remote, Wrocław",16 000 - 24 300 PLN,  Media production platform ,Mid
+Analytics Product Data Analyst,Luxoft Poland,Remote,,  JSON   Java   SQL  ,Mid
+Regular Project Management Officer,Luxoft Poland,Kraków,, ,Mid
+Specjalista IT/Data Engineer,Toyota,"Wałbrzych, Jelcz Laskowice",8 500 - 10 000 PLN,  MySQL   Azure   AWS  ,Mid
+Business Analyst,Luxoft Poland,Kraków,,  Agile   JIRA   SQL  ,Mid
+PostgreSQL Administrator,Luxoft Poland,Wrocław,,  PostgreSQL   Python   Shell  ,Mid
+PHP Web Developer (m/f/d),bookingkit GmbH,"Remote, Berlin",20 000 - 23 000 PLN,  PHP   Laravel   REST  ,Mid
+1st Line Support Engineer (German+English),Luxoft Poland,"Kraków, Wrocław",, ,Mid
+Data Engineer,Luxoft Poland,"Remote, Kraków",,  AWS   Azure   Agile  ,Mid
+DevOps Engineer in Middleware team,Be | Shaping the Future Poland,"Remote, Warszawa",24 000 - 28 000 PLN,  Ansible   Docker   Tomcat  ,Mid
+Murex Back Office Support Consultant,Luxoft Poland,Remote,,  Exchange  ,Mid
+Murex Back Office Support Consultant,Luxoft Poland,Remote,,  Exchange  ,Mid
+DevOps Engineer,Sii Polska,"Remote, Kraków, Warszawa i 12 więcej",,  Linux   Git   Bash  ,Mid
+DevOps Engineer,Luxoft Poland,"Remote, Kraków",,  Azure   Azure   Docker  ,Mid
+Endpoint Automation Engineer,Luxoft Poland,"Remote, Wrocław",,  Ansible   Bash   Chef  ,Mid
+Programista C++,Asseco Poland S.A.,Wrocław,Znamy widełki,  C   C++   SQL  ,Mid
+Project Manager,Luxoft Poland,Remote,, ,Mid
+Native Native Android Developer for Mobile Banking,Luxoft Poland,Wrocław,,  Android   Java  ,Mid
+Java Developer,PKO BP Finat,"Remote, Warszawa",,  Java 11   Maven   Spring Boot  ,Mid
+Murex CTB Consultant,Luxoft Poland,Warszawa,,  Exchange   SQL   Shell  ,Mid
+Murex BAU Support Analyst,Luxoft Poland,Warszawa,,  Java   Linux   Unix  ,Mid
+C# Software Engineer,Power Media,Wrocław,,  C#   .NET   Oracle Database  ,Mid
+PAM Windows System Engineer,Luxoft Poland,Remote,,  Azure   Azure  ,Mid
+Azure Data Bricks and Python/Java Engineer,Luxoft Poland,Kraków,,  Azure   Azure   CI  ,Mid
+Software Architect ,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  cybersecurity products ,Mid
+Java Developer with AWS,Luxoft Poland,"Remote, Wrocław",,  AWS   Java   Kafka  ,Mid
+DevOps Engineer,Luxoft Poland,"Remote, Kraków",,  Azure   Azure   PowerShell  ,Mid
+Business Intelligence Analyst,KPMG w Polsce ,"Remote, Warszawa",,  MySQL   Power BI  ,Mid
+UI Developer,Luxoft Poland,Remote,,  Angular   Bash   CSS  ,Mid
+UI Developer,Luxoft Poland,Remote,,  Java   JavaScript   React  ,Mid
+Front-end Developer,ONWELO SA,"Remote, Kraków, Warszawa",14 000 - 21 000 PLN,  JavaScript   TypeScript   Angular  ,Mid
+Agile Coach,Luxoft Poland,"Remote, Wrocław",,  Agile  ,Mid
+C/C++ Developer,Luxoft Poland,Wrocław,,  Agile   C   C++  ,Mid
+Java Developer/Trainer,Sapiens Software Solutions Poland Sp. z o.o. ,Remote,,  java   MS SQL   JavaScript  ,Mid
+Haskell Developer,Luxoft Poland,"Remote, Warszawa",,  Haskell  ,Mid
+Business Analyst,Luxoft Poland,Wrocław,,  SQL  ,Mid
+Data Scientist,Edrone,"Remote, Kraków",10 000 - 13 000 PLN,  Python ,Mid
+iOS developer (Mobile),Luxoft Poland,Warszawa,,  AppCode   CocoaPods   Git  ,Mid
+Implementation Consultant,Smart4Aviation,"Remote, Kraków, Gdańsk",Znamy widełki,  SQL  ,Mid
+Software Developer - Java ,Transporeon,Kraków,,  Java   Angular   PostgreSQL  ,Mid
+Experienced Java Software Engineer ,Transporeon,Kraków,,  Java    Angular  ,Mid
+Specjalista ds. Systemów Biznesowych (Full-Stack Developer),Adamed Pharma S.A.,Pabianice,6 000 - 9 200 PLN,"  PHP, JavaScript, CSS, HTML ",Mid
+Professional Software Developer Java/GWT/Angular ,Transporeon,Kraków,,  Java   Angular   Spring  ,Mid
+ETL Developer,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Łódź, Gdynia, Szczecin",,  ETL   SQL  ,Mid
+JavaScript Full Stack Developer (Mid/Senior),Vazco,"Remote, Wrocław",12 000 - 23 000 PLN,  JavaScript   React   MongoDB  ,Mid
+Application Support Analyst,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Katowice",, ,Mid
+Migration Developer,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Łódź, Katowice, Gdynia",,  ETL   SQL  ,Mid
+Project Manager / SDM,Diebold Nixdorf,Katowice,,  Agile  ,Mid
+Migration Analyst,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Warszawa, Gdynia",,  #migrationanalyst ,Mid
+Middleware Specialist,Kyndryl,Remote,,  WebSphere   JBoss   Tomcat  ,Mid
+Product Architect - Consumer Relations,GSK Tech Global Centre in Poznan,Poznań,,  Salesforce  ,Mid
+Front-end Developer,Sii Polska,"Remote, Gdańsk, Warszawa i 11 więcej",,  Front-end ,Mid
+Software Engineer (.NET),Diebold Nixdorf,Katowice,Znamy widełki,  C#   .NET   SQL  ,Mid
+Fullstack - .NET / Angular / React,Diebold Nixdorf,Katowice,Znamy widełki,  C#   .NET   Angular  ,Mid
+Scalepoint Scrum Master,Sii Polska,Gdańsk,,  Scalepoint ,Mid
+Security Solutions Engineer,GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+Fullstack Developer - Angular,Diebold Nixdorf,"Remote, Katowice",,  .NET   Angular   HTML  ,Mid
+PHP Developer,Sii Polska,"Gdańsk, Białystok, Bydgoszcz i 10 więcej",8 000 - 18 000 PLN,  PHP ,Mid
+Report Developer,TMS Poland Sp.zo.o.,"Łódź, Bytom",,  MS SQL Reporting Services (SSRS) ,Mid
+Architekt Systemowy,Grupa PZU,Remote,,  Systemy klasy enterprise ,Mid
+Java Developer - AWS/Azure,Sii Polska,"Gdańsk, Białystok, Bydgoszcz i 10 więcej",,  Developer ,Mid
+Business Expert - Risk Quality,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Test Automation Engineer (Regression Tests),Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Linux Platform Engineer,Power Media,Kraków,,  Linux   Python   VMWare ESXi  ,Mid
+Java / BPM Software Developer - Risk Quality,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   Maven   Spring Boot  ,Mid
+NiFi DevOps Engineer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Android Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Android  ,Mid
+.Net Developer with WPF,Transition Technologies PSC S.A.,"Remote, Łódź, Zielona Góra i 3 więcej",,  WPF ,Mid
+Front End Engineer with React or Angular,project44,"Remote, Kraków, Amsterdam i 3 więcej",,  React   JavaScript  ,Mid
+Android Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Android  ,Mid
+Tester Automatyzujący,Transition Technologies PSC S.A.,"Wrocław, Łódź, Poznań i 3 więcej",,  SQL  ,Mid
+(Senior) Software and Test Engineer ,ASSA ABLOY,"Zabierzów, Kraków",,"  Test automation, continuous development ",Mid
+NiFi Data Engineer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+React Mid Developer,Sofomo,Remote,9 000 - 14 000 PLN,  React ,Mid
+Tester,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Python   SQL  ,Mid
+Fullstack Developer - Angular,Diebold Nixdorf,"Remote, Katowice",,  .NET   Angular   HTML  ,Mid
+Fullstack Developer - React,Diebold Nixdorf,"Remote, Katowice",,  React   ASP.NET   Docker  ,Mid
+Frontend Vue.js Developer,Amsterdam Standard Sp. z o.o.,"Remote, Kraków, Wrocław, Rzeszów",9 000 - 16 000 PLN,  |Vue.js| |React/Angular| |BEM| ,Mid
+Frontend Developer,Grupa Maspex Sp. z o.o.,"Remote, Warszawa, Wadowice",Znamy widełki,  JavaScript   HTML5   CSS3  ,Mid
+Backend Developer,Grupa Maspex Sp. z o.o.,"Remote, Warszawa, Wadowice",Znamy widełki,  JavaScript   Node.js   Python  ,Mid
+Python Mid Developer,Sofomo,"Remote, Wrocław",10 000 - 16 000 PLN,  Django ,Mid
+Node Developer,Sofomo,"Remote, Wrocław",10 000 - 19 000 PLN,  Node.js  ,Mid
+Android Developer,Trineo Sp. z o.o.,"Remote, Gdynia",,  Kotlin   Android   Java  ,Mid
+PHP Developer,Sofomo,"Remote, Wrocław",7 000 - 14 000 PLN,  PHP ,Mid
+Data Engineer,C&F,"Remote, Warszawa",10 000 - 18 000 PLN,  ETL ,Mid
+Full Stack Web Developer,Skytek Ltd,Remote,,"  Java, C#, C, JavaScript, HTML5, DOM, CSS ",Mid
+DevOps Engineer (junior/mid) - remote,Power Media,"Remote, Kraków",,  Python  ,Mid
+DevOps Engineer,Kredyt Inkaso SA,"Lublin, Warszawa, Wrocław, Gdańsk",14 000 - 17 000 PLN,  DevOps ,Mid
+Application Engineer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Unix    Linux   SQL  ,Mid
+IT Project Manager,createIT,"Remote, Warszawa",,  Let’s get to work on your next project! ,Mid
+Software Engineer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  SQL   ETL  ,Mid
+Application & System Administrator,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  SQL   Oracle  ,Mid
+Business Analyst with German,Power Media,"Wrocław, Poznań",, ,Mid
+Application Engineer - Linux/Unix,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Agile   Linux   Solaris  ,Mid
+IT Analyst,Kredyt Inkaso SA,"Lublin, Warszawa, Wrocław",5 000 - 8 000 PLN,  Analityk ,Mid
+Java Developer ,Grupa PZU,Warszawa,,  mikroserwisy ,Mid
+ServiceNow Developer	,Sii Polska,Remote,15 000 - 21 000 PLN,  ServiceNow   JavaScript   Angular  ,Mid
+Regular Application Administrator,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Linux   Unix   Windows Server  ,Mid
+Automation Tester Java,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Selenium   Java   Oracle Database  ,Mid
+Senior Python Backend Developer,Adamed Pharma S.A.,Warszawa,14 000 - 21 000 PLN,  Python ,Mid
+Backend Java Developer,PKO BP Finat,"Poznań, Warszawa",,  Java   Spring Boot  ,Mid
+React Developer (Mid/Senior),Power Media,"Remote, Wrocław",Znamy widełki,  React   HTML   CSS  ,Mid
+Java Developer (Mid),Grupa PZU,"Remote, Warszawa",,  Mikroserwisy/Scrum/DevOps ,Mid
+Test Engineer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",, ,Mid
+Administrator Systemów Linux,nazwa.pl ,Remote,,  MySQL   PostgreSQL   Bash  ,Mid
+Administrator Systemów Linux,nazwa.pl ,Rzeszów,,  Linux   MySQL   PostgreSQL  ,Mid
+Linux Platform Engineer,Power Media,Kraków,,  Linux   Python   VMWare ESXi  ,Mid
+Business Analyst with German,Power Media,"Wrocław, Poznań",, ,Mid
+DevOps Engineer,Luxoft Poland,Remote,,  CMAKE   Linux  ,Mid
+Kotlin Developer,Luxoft Poland,Wrocław,,  Angular   CSS   Confluence  ,Mid
+Mid Python Backend Developer,Adamed Pharma S.A.,Warszawa,9 000 - 15 000 PLN,  Python ,Mid
+Data Engineer,Luxoft Poland,Remote,,  Azure   Azure   Big Data  ,Mid
+Development Engineer,Luxoft Poland,Remote,,  Angular   JavaScript  ,Mid
+Calypso Business Analyst,Luxoft Poland,Warszawa,,  BPMN   UML  ,Mid
+BI/DWH Developer,Luxoft Poland,"Remote, Wrocław",,  Power BI   SQL  ,Mid
+Business Process Automation Engineer,Luxoft Poland,Remote,,  BPMN   Java   JavaScript  ,Mid
+Portfolio Analyst,Luxoft Poland,"Warszawa, Wrocław",,  Excel   SharePoint  ,Mid
+Business Analyst,Luxoft Poland,Remote,,  UML  ,Mid
+Product Owner,Luxoft Poland,Remote,, ,Mid
+IT Architect - Data Warehouse for Regulatory Reporting,Luxoft Poland,Kraków,,  ETL   MS SQL   SQL  ,Mid
+ETL Developer - Data Warehouse for Regulatory Reporting,Luxoft Poland,Kraków,,  Agile   Bamboo   Bash  ,Mid
+Tester - Data Warehouse for Regulatory Reporting,Luxoft Poland,Kraków,,  Agile   Confluence   Excel  ,Mid
+Test Manager/IT Analyst - Data Warehouse for Regulatory Reporting,Luxoft Poland,"Kraków, Warszawa",,  ETL   SQL  ,Mid
+IT Analyst - Data Warehouse for Regulatory Reporting,Luxoft Poland,"Warszawa, Kraków",,  ETL   SQL  ,Mid
+DevOps/Solaris Engineer,Luxoft Poland,Kraków,,  Bash   Python   Shell  ,Mid
+Regular QA Automation,Luxoft Poland,Remote,,  REST   SQL  ,Mid
+QA Automation Engineer,Luxoft Poland,Remote,,  Agile   Appium   Cucumber  ,Mid
+Full-Stack Developer,Luxoft Poland,Kraków,,  Agile   CI   CSS  ,Mid
+Full Stack Developer,Luxoft Poland,Kraków,,  Angular   CI   CSS3  ,Mid
+IT Security Business Analyst,Luxoft Poland,"Kraków, Wrocław",,  SQL   Unix   Windows  ,Mid
+Appian developer,Luxoft Poland,Remote,,  Agile   CSS   HTML  ,Mid
+Regular + C++ and Python Developer,Luxoft Poland,Remote,,  C++   Linux   Python  ,Mid
+Solution/Analytics Architect,Luxoft Poland,Remote,,  AWS   Agile   Big Data  ,Mid
+IT Administrator,Luxoft Poland,Kraków,,  Linux   Windows  ,Mid
+Data Modeller/Engineer (PowerBI),Luxoft Poland,Remote,,  Power BI   SQL  ,Mid
+Android Developer,Luxoft Poland,Warszawa,,  Android   Android SDK   Android Studio  ,Mid
+Consultant / Functional Analyst,Luxoft Poland,Warszawa,, ,Mid
+Fullstack Developer (Java+DevOps),Luxoft Poland,Kraków,,  Java  ,Mid
+GPU Graphics Software Optimization Engineer,Luxoft Poland,Gdańsk,,  C   C++  ,Mid
+Regular C++ engineer (compiler),Luxoft Poland,"Remote, Gdańsk",,  C   C++  ,Mid
+Data Engineer,Luxoft Poland,Remote,,  Azure   Azure   Big Data  ,Mid
+Cloud Engineer/DevOps Engineer,ZF Group ,"Łódź, Częstochowa",10 000 - 20 000 PLN,"  Docker, Kubernetes, OpenShift, Quay ",Mid
+IT Business Analyst,Luxoft Poland,"Kraków, Wrocław",,  Agile   BDD  ,Mid
+C# .Net Backend Developer with Azure,Luxoft Poland,Remote,,  .NET   Azure   Azure  ,Mid
+Specjalista ds. rozwoju i utrzymania sieci,Pentacomp Systemy Informatyczne,Warszawa,Znamy widełki, ,Mid
+IT Business Analyst,Luxoft Poland,Kraków,,  Windows   Windows Server  ,Mid
+Project Manager\Scrum Master for a large FinTech Program,Luxoft Poland,Remote,,  Agile   CI   JIRA  ,Mid
+Programista .NET,Pentacomp Systemy Informatyczne,"Remote, Warszawa",Znamy widełki,  C#   .NET   React.js   ,Mid
+IT Security Project Manager,Luxoft Poland,"Kraków, Wrocław",,  Agile   Excel  ,Mid
+Project Manager\Scrum Master for a large FinTech Program,Luxoft Poland,Remote,,  Agile   CI   JIRA  ,Mid
+Python Software Engineer (Mid/Senior),REVOLUT,"Remote, Kraków",12 000 - 25 000 PLN,  Possibility working abroad (60days/year) ,Mid
+DevOps Engineer,Luxoft Poland,"Remote, Wrocław",,  Bash   CI   Jenkins  ,Mid
+Web Engineer (Azure WebApps),Luxoft Poland,Remote,,  Azure   Azure   Chef  ,Mid
+Java Backend Engineer (Mid/Senior),REVOLUT,"Remote, Kraków",20 000 - 30 000 PLN,  Possibility working abroad (60days/year) ,Mid
+Development Engineer (Software & System hybrid),Luxoft Poland,Remote,,  Azure   Azure   Chef  ,Mid
+Agile Coach,Luxoft Poland,Remote,,  Agile   Confluence   JIRA  ,Mid
+Data Engineer,Pentacomp Systemy Informatyczne,Warszawa,Znamy widełki,  MS SQL   ETL   T-SQL  ,Mid
+DevOps with Windows Administration,Luxoft Poland,Remote,,  Azure   Azure  ,Mid
+Java Developer,Luxoft Poland,Remote,,  CSS   Java   Linux  ,Mid
+Frontend Angular Developer,Cobiro A/S,"Remote, Warszawa",12 000 - 18 000 PLN,  Angular   Bootstrap   Jasmine  ,Mid
+DevOps Specialist,Luxoft Poland,Remote,,  Agile   Ansible   Confluence  ,Mid
+DevOps Engineer with ML experience (MLOps),Luxoft Poland,Remote,,  CI   Docker   Jenkins  ,Mid
+Backend PHP Developer,Cobiro A/S,"Remote, Warszawa",15 000 - 29 000 PLN,  PHP   Symfony   Laravel  ,Mid
+Regular Data Engineer,Luxoft Poland,Remote,,  Azure   Azure   Big Data  ,Mid
+Full Stack BI Engineer,Luxoft Poland,Remote,,  Big Data   ETL   Python  ,Mid
+iOS Software Engineer (Mid/Senior),REVOLUT,Remote,14 500 - 29 000 PLN,  Possibility working abroad (60days/year) ,Mid
+Toolchain Development Engineer (GPU Profiler),Luxoft Poland,"Remote, Gdańsk",,  C++   Git   Linux  ,Mid
+Web Conferencing Engineer,Luxoft Poland,"Remote, Wrocław",,  PowerShell  ,Mid
+Test Automation Engineer,ONWELO SA,"Remote, Warszawa, Kraków i 3 więcej",15 000 - 20 000 PLN,"  C#, projekt międzynarodowy ",Mid
+Frontend Developer with Python,Luxoft Poland,Remote,,  CSS   HTML   Java  ,Mid
+Java Developer,Luxoft Poland,Kraków,,  Hibernate   Java   SQL  ,Mid
+QA Engineer,Storm Ideas,Remote,10 000 - 20 000 PLN,  |Selenium| |JavaScript| ,Mid
+Technical Architect/Consultant Pre-Sale,Luxoft Poland,Remote,,  AWS   Azure   Azure  ,Mid
+Regular Java Developer,Luxoft Poland,Remote,,  JMS   Java   Kafka  ,Mid
+.Net Developer,Netcompany Poland Sp. z o.o.,Warszawa,Znamy widełki,  .NET   .NET Core   SQL  ,Mid
+Python/Data Modelling Developer,Luxoft Poland,Remote,,  Agile   CI   Python  ,Mid
+Java L3 support,Luxoft Poland,Kraków,,  Agile   CI   Git  ,Mid
+Java Developer,Netcompany Poland Sp. z o.o.,Warszawa,Znamy widełki,  Java   Spring Boot   SQL  ,Mid
+Data Analyst,Luxoft Poland,Remote,,  ETL   Hadoop   SQL  ,Mid
+Scala Developer,Luxoft Poland,Remote,,  Apache   Eclipse   JIRA  ,Mid
+Front-end developer (React),Hitachi Energy,Kraków,8 000 - 14 000 PLN,  JavaScript   HTML   CSS  ,Mid
+Backend Software Engineer,Luxoft Poland,Remote,,  AWS   C++   Docker  ,Mid
+DevOps Engineer,Luxoft Poland,Wrocław,,  Azure   Ansible   Azure  ,Mid
+DevOps Engineer,Sii Polska,Warszawa,17 000 - 24 000 PLN,  Linux   AWS   GCP  ,Mid
+Software Engineer Full-stack ,Edrone,"Remote, Kraków",9 000 - 18 000 PLN,  Full-stack  ,Mid
+Python Developer ,Edrone,"Remote, Kraków",10 000 - 11 100 PLN,  Python ,Mid
+Full-Stack Developer (Angular/.Net) ,eSky.pl S.A.,"Remote, Katowice",10 000 - 15 000 PLN,  Angular/.Net ,Mid
+iOS Developer (Swift) ,eSky.pl S.A.,"Remote, Katowice",12 000 - 17 000 PLN,  Swift ,Mid
+Team Leader,Future Processing,"Remote, Gliwice",11 000 - 20 500 PLN,  Możliwość zmiany projektu ,Mid
+Administrator / Starszy Administrator Systemów IT,Asseco Poland S.A.,"Remote, Rzeszów, Warszawa, Bydgoszcz",,  PostgreSQL   Bash  ,Mid
+Specjalista ds. bezpieczeństwa IT,PKO BP Finat,Warszawa,, ,Mid
+Programista Java ,Asseco Business Solutions,Lublin,,  Java   Spring   Spring Boot  ,Mid
+Python Developer,PKO BP Finat,Warszawa,,  Python  ,Mid
+Developer .NET,PKO BP Finat,"Remote, Warszawa, Katowice",,  .NET Core   C#   TypeScript  ,Mid
+Web PHP Developer,Polska Agencja Prasowa SA,Warszawa,Znamy widełki,  Drupal  ,Mid
+Test Automation Engineer,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  C#   Python  ,Mid
+Backend Java Developer,Digital Colliers,"Remote, Kraków",8 000 - 15 000 PLN,  100 % Remote ,Mid
+JavaScript Developer,Digital Colliers,"Remote, Kraków",8 000 - 14 000 PLN,  100 % Remote ,Mid
+Service Delivery Manager / Ops Lead,C&F,"Remote, Warszawa",,  Cloud technologies ,Mid
+Backend Go Developer,Digital Colliers,Remote,8 000 - 16 000 PLN,  Go   AWS   REST  ,Mid
+Node.js Developer,Digital Colliers,Remote,8 000 - 16 000 PLN,  JavaScript   Node.js   GraphQL  ,Mid
+Programista Fullstack (ASP.NET Angular),Enigma SOI,Warszawa,Znamy widełki,  80% rozwijanie; 20% utrzymanie ,Mid
+React Developer,Digital Colliers,Remote,8 000 - 16 000 PLN,  JavaScript   React   GraphQL  ,Mid
+C++ Developer,j-labs sp. z o.o.,"Remote, Warszawa",Do 20 800 PLN,  System pomiaru i analizy oglądalności TV ,Mid
+Specjalista ds. Serwisu,Asseco Poland S.A.,Remote,,  Bash   Python   Selenium  ,Mid
+Automation Tester (Remote),Be | Shaping the Future Poland,Remote,24 000 - 25 600 PLN, ,Mid
+.NET Developer,mBank,"Remote, Warszawa",,  C#   .NET   Docker  ,Mid
+Data Scientist,GSK Tech Global Centre in Poznan,Poznań,,  Power BI   Hadoop   Azure  ,Mid
+Principle Product Owner,GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+Automation Tester,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Cucumber   Appium  ,Mid
+Manual Tester,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  WebGUI   ,Mid
+Compliance Product Expert,GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+Business Expert with German Commerzbank,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Frontend Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",Znamy widełki,  JavaScript   React    Node.js  ,Mid
+Tech Developer (Manufacturing Excellence),GSK Tech Global Centre in Poznan,Poznań,,  MS SQL  ,Mid
+Chapter Lead | Application Support,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Chapter Lead with Python,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Python  ,Mid
+Backend Developer,Sofomo,"Remote, Wrocław",15 000 - 21 000 PLN,"  Ruby, Python, PHP, Java ",Mid
+Java Software Developer - Risk Quality,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java    J2EE   Spring Boot  ,Mid
+Architect – Trade Finance,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   J2EE   JavaScript  ,Mid
+Integration and Release engineer,Luxoft Poland,"Remote, Wrocław",,  CI   Git   Jenkins  ,Mid
+Architect - Trade Finance (TTM),Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   MS SQL   JIRA  ,Mid
+Python Developer (Telework),Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Python   GIT  ,Mid
+Java Developer,Luxoft Poland,"Remote, Kraków",,  Agile   CI  ,Mid
+Front-end Developer with React JS,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  React JS   JavaScript   HTML  ,Mid
+Fullstack Developer (DBS),Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  React   JavaScript   HTML  ,Mid
+C# .net Regular Developer,Luxoft Poland,Remote,,  .NET   Agile   C#  ,Mid
+Data processing DevOps,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Unix   Hadoop   ,Mid
+Back-End developer Java,Luxoft Poland,Remote,,  Git   Hibernate   Java  ,Mid
+L2 Cloud Support Engineer [Platform Support],Luxoft Poland,"Kraków, Wrocław",,  AWS   Agile   Ansible  ,Mid
+Test Automation Engineer (Python),Luxoft Poland,Remote,,  C++   Git   JIRA  ,Mid
+System Analyst,Luxoft Poland,"Remote, Kraków",,  Agile   BPMN   SQL  ,Mid
+Business Support Analyst,Luxoft Poland,Kraków,,  Excel   JSON   Python  ,Mid
+Facility Administrator,Luxoft Poland,Warszawa,,  Excel  ,Mid
+Unix Engineer,Luxoft Poland,Wrocław,,  Ansible   Bash   CI  ,Mid
+Reg Technology Engineer,Luxoft Poland,"Remote, Warszawa",,  BPMN   Big Data   Hadoop  ,Mid
+QA Automation with Java,Luxoft Poland,"Kraków, Wrocław",,  Agile   BDD   Cucumber  ,Mid
+Reg Technology Engineer,Luxoft Poland,"Remote, Warszawa",,  BPMN   Big Data   Hadoop  ,Mid
+Regular Java Developer,Luxoft Poland,"Remote, Wrocław",,  CI   Java  ,Mid
+Azure DevOps Engineer,Luxoft Poland,Wrocław,,  Azure   Agile   Ansible  ,Mid
+Requirements Engineer / BA / QA Tester,Luxoft Poland,Remote,,  JIRA  ,Mid
+Java Developer (Middle),7N,Remote,16 800 - 17 600 PLN,"  pharma, java 11 ",Mid
+Project Manager,Luxoft Poland,Remote,, ,Mid
+TOSCA Test Engineer,Luxoft Poland,Warszawa,,  ISTQB   JIRA   Agile  ,Mid
+Support Specjalista ds. Helpdesk,ENERIS CENTRUM USŁUG WSPÓLNYCH SP. Z O.O.,Warszawa,5 000 - 7 000 PLN,  SharePoint   Windows  ,Mid
+Test Manager,Luxoft Poland,Warszawa,,  Agile  ,Mid
+System Engineer/ DevOps Engineer,Luxoft Poland,"Kraków, Wrocław",,  Azure   Azure   Bash  ,Mid
+Customer Support Specialist,Medius,"Remote, Kraków",,  XML   XSLT   SQL  ,Mid
+Source Control Management Engineer,Luxoft Poland,Gdańsk,,  Bash   Gerrit  ,Mid
+Solution Architect (Oracle BI/SAP BO),Luxoft Poland,Remote,,  Power BI  ,Mid
+Project Support Consultant,Medius,"Remote, Kraków",,  XML   XSLT   SQL  ,Mid
+PMO Analyst,Luxoft Poland,Remote,, ,Mid
+Temenos TPH Analyst,Luxoft Poland,Warszawa,,  Swift  ,Mid
+Programista Java,Bank Millennium,Wrocław,,  Java   Git   Gradle  ,Mid
+Temenos RFR Corporate Loans Analyst,Luxoft Poland,Warszawa,, ,Mid
+Temenos Analytics Developer,Luxoft Poland,Warszawa,,  MS SQL   SQL  ,Mid
+Analityk IT Systemowo-Biznesowy (Mid/Senior),Bank Millennium,Warszawa,,  UML   BPMN   SOAP  ,Mid
+ETL Developer,Luxoft Poland,Remote,,  DB2   ETL   Linux  ,Mid
+System Configuration Analyst,Luxoft Poland,Remote,,  Agile   BPMN   UML  ,Mid
+Specjalista ds. Budżetowania i Dostawców IT,Bank Millennium,Warszawa,,  Excel  ,Mid
+Python Software Developer for Automotive ADAS,Luxoft Poland,Wrocław,,  Agile   Bash   Git  ,Mid
+Regular Integration SW Developer,Luxoft Poland,Wrocław,,  Bash   C++   Python  ,Mid
+Programista .NET/C#,Bank Millennium,Warszawa,,  C#   .NET   .NET Core  ,Mid
+Murex BAU Support,Luxoft Poland,Warszawa,,  SQL   Unix   Excel  ,Mid
+SWIFT Payments Analyst (Temenos),Luxoft Poland,Warszawa,,  Swift  ,Mid
+Cloud Operations Engineer,Hitachi Energy,Kraków,8 000 - 14 000 PLN,  Azure   Kubernetes   Kafka  ,Mid
+Data Management Developer,Luxoft Poland,Wrocław,,  SQL   T-SQL  ,Mid
+File Transfer Engineer,Luxoft Poland,Kraków,,  Windows   Windows Server  ,Mid
+Specjalista IT w Zespole Utrzymania Aplikacji,Bank Millennium,Warszawa,,  ITIL   Oracle Database   MS SQL  ,Mid
+Full-stack Developer,Luxoft Poland,Remote,,  AWS   Angular   BDD  ,Mid
+Big Data Engineer,Luxoft Poland,Remote,,  Apache   Big Data   ELK  ,Mid
+Analityk Systemowy,Bank Millennium,Warszawa,,  ITIL  ,Mid
+Python developer with AWS,Luxoft Poland,Kraków,,  AWS   Angular   Python  ,Mid
+System Software Engineer (Device),Luxoft Poland,"Remote, Kraków",,  C   C++   Linux  ,Mid
+MS-SQL Specialist,Bank Millennium,Warszawa,,  MS SQL   SQL   T-SQL  ,Mid
+Specjalista DevOps,Bank Millennium,Warszawa,,  Spring   .NET Core   Ansible  ,Mid
+Kotlin Developer,ING Bank Śląski,"Remote, Katowice, Warszawa",9 000 - 15 000 PLN,  projekt tworzony wewnętrznie od początku ,Mid
+Specjalista ds. Atlassian,Bank Millennium,Wrocław,,  JIRA   Confluence   SQL  ,Mid
+Specjalista w Zespole Wsparcia Stacji Roboczych,Bank Millennium,Wrocław,,  Windows Server   PowerShell  ,Mid
+Cloud Architect,PKO BP Finat,"Remote, Warszawa, Łódź",,  Azure     GCP     AWS  ,Mid
+Account Security Manager,Kyndryl,"Remote, Wrocław, Katowice",, ,Mid
+Network Service Specialist- Integrated Networking,Kyndryl,"Remote, Kraków, Wrocław",, ,Mid
+Frontend Developer,j-labs sp. z o.o.,"Remote, Warszawa",20 000 - 26 000 PLN,  JavaScript   React   Angular  ,Mid
+Inżynier Systemowy/Devops (Kubernetes),nazwa.pl ,"Remote, Kraków",Do 20 000 PLN,  Linux   Kubernetes   Ansible  ,Mid
+Developer ETL,Adamed Pharma S.A.,Pieńków,7 500 - 11 500 PLN,  | SQL | ETL | Azure| ,Mid
+[Data Technology] Data Engineer - Python,Luxoft Poland,Remote,,  NoSQL   Python  ,Mid
+PostgreSQL Engineer,Luxoft Poland,Remote,,  PostgreSQL  ,Mid
+Full Stack Engineer,Luxoft Poland,Remote,,  .NET   Angular   BDD  ,Mid
+GPU 3D Rendering Algorithms Research Engineer,Luxoft Poland,Remote,,  C++   Linux   Windows  ,Mid
+Full stack Engineer,Luxoft Poland,"Remote, Kraków",,  Angular   CI   CSS3  ,Mid
+DevOps Engineer,Luxoft Poland,"Remote, Kraków",,  Bash   CI   Docker  ,Mid
+Junior / Mid / Senior R&D DevOps Engineer,Diebold Nixdorf,Remote,, ,Mid
+DataStage SME/Developer,Luxoft Poland,Remote,,  ETL   Shell   Unix  ,Mid
+Automation Test Engineer,Luxoft Poland,Remote,,  Agile   ETL   ISTQB  ,Mid
+Software Engineer C++ Security,Power Media,Wrocław,,  C++  ,Mid
+Java Developer,Luxoft Poland,Kraków,,  Java  ,Mid
+Python Developer,Luxoft Poland,Kraków,,  Linux   Python   SQL  ,Mid
+Devops Engineer,7N,Warszawa,2 560 000 - 3 456 000 PLN,  Kubernetes   Docker   Ansible  ,Mid
+Quality Assurance engineer,Luxoft Poland,Remote,, ,Mid
+Business Analyst - Data Migration,Luxoft Poland,Remote,, ,Mid
+Tester Automatyzujący,Asseco Poland S.A.,Wrocław,Znamy widełki,  Python   Java   C++  ,Mid
+Technical Project Manager,Luxoft Poland,Remote,,  Agile   Big Data   JIRA  ,Mid
+Proxy Product Owner: Instrument Cluster and Safety,Luxoft Poland,Remote,,  Agile  ,Mid
+Site Reliability Engineer (SRE) ,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Katowice, Kraków, Szczecin",,  Kubernetes   ELK   WEB Apps  ,Mid
+Python Cloud Developer,Luxoft Poland,Remote,,  Azure   Azure   CI  ,Mid
+Software Engineer / Machine Learning SME,Luxoft Poland,Remote,,  Ansible   CI   ELK  ,Mid
+Java Developer,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Szczecin, Katowice, Gdynia",,  Java   Hibernate   SQL  ,Mid
+IT Business Analyst with SNOW,Luxoft Poland,Remote,, ,Mid
+IT Business Analyst,Luxoft Poland,"Kraków, Wrocław",,  Confluence   Excel   JIRA  ,Mid
+QA Automation Engineer (Java/Python),Sii Polska,"Remote, Warszawa, Gdańsk i 12 więcej",Znamy widełki,  Java   Python   Selenium  ,Mid
+Regular QA Engineer,Luxoft Poland,"Remote, Kraków",,  Agile   Confluence   JIRA  ,Mid
+GPU Software Development Engineer - Computer Graphics,Luxoft Poland,Gdańsk,,  C++   Java   Linux  ,Mid
+Java Full-Stack Developer,Sii Polska,"Remote, Warszawa, Wrocław i 12 więcej",,  Java   JavaScript   Angular  ,Mid
+Java Developer,Luxoft Poland,"Remote, Wrocław",,  JUnit   Java   Linux  ,Mid
+Angular Developer,Luxoft Poland,"Remote, Kraków",,  AngularJS   Angular   CSS  ,Mid
+API Tester,Sii Polska,"Remote, Warszawa, Wrocław i 12 więcej",6 000 - 16 000 PLN,  Postman   JIRA   HP ALM  ,Mid
+Security Business Analyst,Luxoft Poland,Kraków,,  Azure   Agile   Azure  ,Mid
+Deep Learning Primitives Kernel Development and Kernel Generation Automation Developer,Luxoft Poland,"Remote, Gdańsk",,  C   C++   Git  ,Mid
+Scrum Master,Sii Polska,"Remote, Warszawa, Gdańsk i 12 więcej",12 000 - 18 000 PLN,  Kanban   Scrum   PMS  ,Mid
+Software Developer (Java and Big Data),Luxoft Poland,Remote,,  AWS   Apache   Big Data  ,Mid
+Data Engineer with SQL,Luxoft Poland,Wrocław,,  ETL   Informatica   SQL  ,Mid
+Big Data Engineer,Sii Polska,"Remote, Warszawa, Gdańsk i 12 więcej",20 000 - 28 000 PLN,  Hive   Spark  ,Mid
+Java Developer,Luxoft Poland,"Remote, Wrocław",,  Angular   CSS   Confluence  ,Mid
+Business Analyst,Luxoft Poland,Remote,,  ETL   SQL  ,Mid
+Splunk Engineer ,Sii Polska,"Remote, Warszawa, Białystok i 12 więcej",20 000 - 24 000 PLN,  Splunk   SIEM  ,Mid
+Data Engineer,Luxoft Poland,Remote,,  Azure   Azure   Big Data  ,Mid
+Big Data Application Support Engineer,Luxoft Poland,Remote,,  AWS   Azure   Azure  ,Mid
+Backend Python Software Engineer,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  Python   Oracle Database   Node.js  ,Mid
+Data Engineer/Data Tester,Luxoft Poland,Remote,,  Azure   Apache   Azure  ,Mid
+Database Administrator (PostgreSQL),Luxoft Poland,Kraków,,  PostgreSQL  ,Mid
+.NET Developer,Luxoft Poland,Wrocław,,  .NET   Agile   BDD  ,Mid
+IT System Administrator,Luxoft Poland,Wrocław,,  VMWare ESXi   VMware   Windows  ,Mid
+Full stack java developer,Luxoft Poland,"Remote, Kraków",,  AWS   Angular   Bash  ,Mid
+JavaScript/React Developer,Luxoft Poland,"Wrocław, Kraków",,  Agile   CSS   Git  ,Mid
+Software Architect for Telematics (with C++),Luxoft Poland,Remote,,  Ethernet   Gerrit   Git  ,Mid
+QA Automation Engineer,Luxoft Poland,"Remote, Kraków",,  Python  ,Mid
+Temenos Financial Crime Mitigation Analyst,Luxoft Poland,Warszawa,, ,Mid
+Test Engineer with Selenium,Luxoft Poland,Kraków,,  Agile   JIRA   Java  ,Mid
+Application Support Analyst (DevOps Platforms),Luxoft Poland,Remote,,  Azure   Azure   Bash  ,Mid
+Business Expert for Risk Analytics,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Java Developer,UpMenu,"Remote, Łódź",16 000 - 20 000 PLN,  Rozmowa tech. na pierwszym spotkaniu ,Mid
+Data Steward,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,, ,Mid
+Specjalista/ka IT I linii wsparcia,AQUAEL Janusz Jankiewicz Sp. z o.o.,Warszawa,Znamy widełki,  Azure   Microsoft365  ,Mid
+Tester Manualny,Sii Polska,"Remote, Kraków, Warszawa i 12 więcej",5 000 - 16 000 PLN,  ISTQB   SQL  ,Mid
+Frontend Developer e-Commerce,Motorola Solutions Systems Polska Sp.z.o.o,Kraków,,  JavaScript   React   Angular  ,Mid
+DevOps Engineer,PKO BP Finat,"Remote, Warszawa, Toruń",,  Oracle Database   Docker   Kubernetes  ,Mid
+Graphics Driver Developer,Sii Polska,"Gdańsk, Warszawa, Poznań i 8 więcej",,  C   C++   GPU driver  ,Mid
+Test Engineer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",, ,Mid
+Backup and Storage Engineer,Aptiv,Kraków,,  dell VxRail   Netapp  ,Mid
+Data Engineer,Hitachi Energy,Kraków,6 000 - 9 000 PLN,  PL/SQL  ,Mid
+Site Reliability Engineer - Python/QA Lead,Miinto,"Remote, Warszawa",Znamy widełki,  Python/QA Lead ,Mid
+IT Tech Product Owner – Benefits,GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+Software Developer,Sieć Badawcza Łukasiewicz- Instytut Lotnictwa,Warszawa,,  C++14/17 and Qt ,Mid
+Tech Service Analyst,GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+Hybris Developer,Hycom,"Remote, Łódź, Toruń, Warszawa",,  SaP Hybris / Java ,Mid
+ENC Business Development Project Manager,GSK Tech Global Centre in Poznan,"Poznań, Warsaw, Warszawa",, ,Mid
+"Tech Engineering Manager, Territory Management",GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+DevOps,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Katowice, Gdynia",,  Java   Python   .Net  ,Mid
+Product Engineer - Digital Marketing,GSK Tech Global Centre in Poznan,Poznań,, ,Mid
+.Net Sitecore Developer,ONWELO SA,"Remote, Warszawa, Lublin",Do 20 000 PLN,  .NET Core    C#   ASP.NET MVC  ,Mid
+Database Administrator/ Developer,PF Logo Express,Poznań,,  Microsoft SQL Server ,Mid
+Data Operations Engineer,project44,"Remote, Kraków",,  ElasticSearch   AWS  ,Mid
+JavaScript Developer,Digital Colliers,"Remote, Kraków",8 000 - 14 000 PLN,  100 % Remote ,Mid
+Backend Java Developer,Digital Colliers,"Remote, Kraków",8 000 - 15 000 PLN,  100 % Remote ,Mid
+Monitoring DevOps Engineer (Big Data),Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",Znamy widełki,  UNIX   LINUX  ,Mid
+Java/React Fullstack Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   Spring Boot   JavaScript  ,Mid
+PHP Developer (Mid/Senior),Baselinker Sp. z o.o. ,"Remote, Warszawa, Wrocław i 3 więcej",12 000 - 18 000 PLN,  |PHP| |MySQL| |JavaScript| |HTML| ,Mid
+Business Specialist International,Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",Znamy widełki,  Excel  ,Mid
+Front-end Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  JavaScript   React   MobX  ,Mid
+Quality Assurance Engineer,Deloitte,Rzeszów,, ,Mid
+Business Expert – Trade Finance (Guarantees),Commerzbank - Centrum Technologii Cyfrowych w Polsce,"Remote, Łódź",Znamy widełki, ,Mid
+Machine Learning Engineer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  C#   .NET  ,Mid
+Big Data Engineer,Sii Polska,"Warszawa, Gdańsk, Wrocław i 11 więcej",20 000 - 25 000 PLN,  Hadoop   Python   GIT  ,Mid
+Business Expert with German,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Remote DevOps Engineer,Sii Polska,"Remote, Gdańsk, Wrocław i 11 więcej",16 000 - 26 000 PLN,  Kubernetes   Terraform   Ansible  ,Mid
+QA Engineer/Tester manualny,Power Media,"Remote, Wrocław",, ,Mid
+Sitecore Developer,Sygnity S.A.,Remote,24 000 - 28 800 PLN,  .NET Core   .NET MVC   Sitecore Helix  ,Mid
+Full Stack .Net Developer,ONWELO SA,"Remote, Gdańsk, Lublin",Do 17 000 PLN,  .Net Core    ASP.NET MVC   C#  ,Mid
+Android Developer,ONWELO SA,"Remote, Warszawa",8 500 - 27 000 PLN,  Android   Java   Kotlin  ,Mid
+Project Manager,Power Media,Wrocław,,  Agile  ,Mid
+iOS Developer,ONWELO SA,"Remote, Lublin, Warszawa",8 500 - 24 000 PLN,  iOS   MVVM   VIPER   ,Mid
+Data Egnineer (Artificial Intelligence),Power Media,"Remote, Kraków, Katowice",,  Data Mining   Data Analyst  ,Mid
+PHP Back-end Developer (Symfony) ,PKO BP Finat,"Remote, Warszawa, Wrocław",,  Symfony   PHP   OOP  ,Mid
+Specjalista ds. usług chmurowych,PKO BP Finat,"Remote, Warszawa, Wrocław",,  Azure   AWS   GCP  ,Mid
+Fullstack Java Developer (Angular),Power Media,Warszawa,,  Java    Angular 2+  ,Mid
+Programista baz danych Oracle/ MS SQL,PKO BP Finat,"Remote, Warszawa, Wrocław, Łódź",,  PL/SQL   SQL  ,Mid
+Java/Groovy Developer ,PKO BP Finat,"Warszawa, Łódź",,  Java   JavaScript   SQL  ,Mid
+Cloud Developer,PKO BP Finat,"Remote, Warszawa, Łódź",,  Java   .NET   C#  ,Mid
+Programista Integracji,PKO BP Finat,"Warszawa, Wrocław, Łódź",,  Java   JMS   SOAP  ,Mid
+Python Automation Engineer,T-Mobile Polska S. A.,Warszawa,,  Python  ,Mid
+Hosting & Collaboration Infrastructure Engineer,ASSA ABLOY,Kraków,,  Hosting & Collaboration ,Mid
+QA Team Leader,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Katowice, Gdynia",,  SQL  ,Mid
+Performance Testing Engineer,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Gdynia, Kraków",,  JMeter   SQL   Linux  ,Mid
+Business Analyst with German,Power Media,"Wrocław, Poznań",, ,Mid
+IT PMO,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Katowice, Gdynia, Warszawa",,  Excel   SQL  ,Mid
+Technical Application Consultant,Power Media,Wrocław,,  SQL  ,Mid
+Customer Support Specialist (1st/2nd line),Power Media,"Remote, Wrocław",Znamy widełki, ,Mid
+Angular Frontend Developer,AppVerk Sp. z o.o.,"Remote, Poznań",10 000 - 18 000 PLN,  |JavaScript| |TypeScript| |HTML| ,Mid
+PHP Developer,AppVerk Sp. z o.o.,"Remote, Poznań",10 000 - 18 000 PLN,  | PHP |  | Symfony/Laravel | ,Mid
+"Frontend Developer (Node.js, React/Angular)",Alab Laboratoria Sp. z o.o.,"Remote, Warszawa",,"  Node.js, React/Angular ",Mid
+Tester Manualny,AppVerk Sp. z o.o.,"Remote, Poznań",4 000 - 8 000 PLN,  | JIRA | ,Mid
+Project Manager,AppVerk Sp. z o.o.,Poznań,5 000 - 12 000 PLN,  | Scrum | ,Mid
+OutSystems Developer,Atos,"Remote, Wrocław",,  |OutSystems| |JavaScript| |MS SQL| ,Mid
+Linux Application Support Engineer,Atos,Wrocław,,  | Linux | ,Mid
+Frontend Developer,Rainbow Tours S.A.,Łódź,11 000 - 20 000 PLN,"  JS, CSS, HTML ",Mid
+CI/CD Automation Engineer,Atos,"Wrocław, Warszawa, Łódź",,  |JIRA| |Confluence| |Java| |C++| ,Mid
+Java Developer,Atos,"Remote, Wrocław",,  |Java| |Kafka| ,Mid
+DevOps Engineer,ITS International Services Sp. z o.o.,"Zielona Góra, Kraków, Poznań, Szczecin",,  Azure   AWS   CI  ,Mid
+Software Test Engineer,Atos,"Remote, Wrocław",,  |XML| |SQL| ,Mid
+Programista Azure,ITS International Services Sp. z o.o.,"Zielona Góra, Kraków, Poznań, Szczecin",,  C#   Azure  ,Mid
+Embedded C++ Developer,ONWELO SA,"Remote, Warszawa, Kraków",16 000 - 21 000 PLN,  C++   REST  ,Mid
+Analityk biznesowy,7N,"Remote, Warszawa",18 400 - 21 000 PLN,  Excel   UML  ,Mid
+PL/SQL Developer,7N,Warszawa,19 300 - 21 000 PLN,  PL/SQL  ,Mid
+Technical Co-founder ,Kickstart Mobile,Warszawa,,  iOS and/or Android ,Mid
+Programista .NET,EXENO,"Remote, Warszawa",11 200 - 22 400 PLN,  Exeno ,Mid
+Executive Consultant SAP SD/MM,KPMG w Polsce ,"Remote, Warszawa",,  SAP  ,Mid
+Model Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki, ,Mid
+Architekt Rozwiązań,Grupa PZU,Remote,, ,Mid
+Service Level Manager,PKO BP Finat,"Remote, Warszawa, Poznań i 2 więcej",,  ITIL  ,Mid
+MySQL Administrator,Be | Shaping the Future Poland,"Remote, Warszawa",17 600 - 24 000 PLN,  MySQL   Oracle Database   MSSQL  ,Mid
+Manual Test Engineer (junior/mid),7N,Remote,11 400 - 13 100 PLN,"  JIRA, manual ",Mid
+Java Backend Developer,ING Bank Śląski,"Remote, Katowice, Warszawa",,  realne TDD i wzorce projektowe ,Mid
+Analityk systemowo-biznesowy,ING Bank Śląski,"Remote, Warszawa, Katowice",,  realne wykorzystanie UML i BPMN w EA ,Mid
+Java Developer,Lingaro ,Remote,,  Java   Spring Boot   JUnit  ,Mid
+Architekt IT,Asseco Data Systems S.A.,Remote,,  UML   BPMN  ,Mid
+Programista PHP,nazwa.pl ,Kraków,,  CRM   PHP   HTML5  ,Mid
+Automation Tester,Lingaro ,Remote,,  JMeter   Postman   PowerShell  ,Mid
+Programista Angular (FinTech Apfino),Comarch ,"Kraków, Kielce",,  Angular   JavaScript    HTML5  ,Mid
+Golang Developer,Comarch ,Kraków,,  Java    C    C#  ,Mid
+Programista C#,Monitor ERP System,Wrocław,Znamy widełki,  rozwiązania ERP ,Mid
+Front-end Developer,ONWELO SA,"Remote, Kraków, Katowice, Kielce",15 000 - 22 000 PLN,  JavaScript   Angular    HTML  ,Mid
+.NET Developer (Mid/Senior),3Qcode,"Remote, Wrocław, Gdańsk i 3 więcej",15 000 - 25 000 PLN,  Zróżnicowane projekty 100% zdalnie ,Mid
+Software Engineer (Automotive),ONWELO SA,"Remote, Warszawa, Gdańsk",8 500 - 18 900 PLN,  Java   Docker   OpenShift  ,Mid
+Programista PHP,CENEO.PL,Remote,,  e-commerce ,Mid
+Python (Cloud) Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Python   AWS   Git  ,Mid
+Team Lead System Engineer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  VMWare ,Mid
+Change Manager,PKO BP Finat,"Warszawa, Wrocław",,  Change Manager   ITIL   Relese  ,Mid
+Front-end Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  JavaScript   TypeScript   CSS  ,Mid
+Backend Developer with NodeJS,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Node.js   JavaScript  ,Mid
+Projektant Systemów Informatycznych,Sygnity S.A.,Remote,10 000 - 14 300 PLN,  . ,Mid
+Java Engineer ,Edrone,Remote,13 000 - 18 000 PLN,  Java ,Mid
+Front-end Developer,Sii Polska,"Remote, Katowice, Gliwice i 2 więcej",15 000 - 16 000 PLN,  Angular   React   JavaScript  ,Mid
+Business Analyst ,Edrone,Remote,Do 10 000 PLN,  SQL/Excel ,Mid
+Java Developer,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Łódź, Katowice, Szczecin",,  Java   Oracle Database   Angular  ,Mid
+Professional in IT Audit Solutions (SME),T-Mobile Polska S. A.,Warszawa,, ,Mid
+Technical Analyst,C&F,"Remote, Warszawa",,  Pharmaceutical client ,Mid
+Database Administrator,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Lublin, Wrocław, Kraków",,  PL/SQL   T-SQL   MS SQL  ,Mid
+Database Administrator,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Łódź, Warszawa, Poznań",,  PL/SQL   T-SQL   MS SQL  ,Mid
+Angular Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  JavaScript   CSS   HTML  ,Mid
+Product Owner,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",, ,Mid
+UX Designer,Power Media,"Remote, Wrocław, Gdańsk, Rzeszów",10 000 - 19 000 PLN, ,Mid
+UX/UI Designer,Power Media,"Remote, Katowice",,  Figma   Sketch   Invision   ,Mid
+Python Tester,Hitachi Energy,Kraków,8 000 - 14 000 PLN,  Python  ,Mid
+Qlik Developer,Lingaro ,Remote,,  QlikView   Qlik Sense  ,Mid
+React Developer,Polcode Sp. z o.o.,"Remote, Warszawa, Kraków, Białystok",7 000 - 15 000 PLN,  React   JavaScript    CSS  ,Mid
+BI Developer with Tableau,Lingaro ,Remote,,  Tableau  ,Mid
+FullStack Developer (NodeJS & React),Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Node.js   React   JavaScript  ,Mid
+DevOps Engineer (Azure),Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  C#  ,Mid
+Senior Data Scientist,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Python  ,Mid
+.Net Developer,Transition Technologies PSC S.A.,"Remote, Zielona Góra, Łódź i 2 więcej",,  .NET   ASP.NET  ,Mid
+Mid/Senior React Frontend Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  React   JavaScript   HTML5  ,Mid
+iOS Developer,PKO BP Finat,"Remote, Warszawa, Wrocław, Poznań",,  Swift   Git  ,Mid
+Python Developer (API),Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Python  ,Mid
+Java Developer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Java  ,Mid
+Programista Java,Sygnity S.A.,Remote,13 000 - 18 000 PLN,  Java   PostgreSQL   PL/SQL  ,Mid
+Fullstack Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   JEE   React  ,Mid
+Frontend Developer Commerzbank,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  JavaScript   ReactJS   HTML  ,Mid
+Java Developer ,Power Media,Szczecin,13 000 - 23 000 PLN,  Java   Hibernate   SQL  ,Mid
+Application Operation,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Unix   Shell   Perl  ,Mid
+Frontend Developer (React),Power Media,Katowice,16 000 - 33 500 PLN,  JavaScript     TypeScript   HTML5  ,Mid
+Java Developer ,Power Media,"Remote, Kraków",,  Java   Agile   Spring Boot  ,Mid
+Full Stack Developer,mBank,"Remote, Warszawa",,  .NET   C#   .NET Core  ,Mid
+Wordpress Backend (PHP) Developer,Power Media,"Remote, Warszawa",,  WordPress   PHP  ,Mid
+JavaScript Developer,Power Media,"Remote, Warszawa, Katowice",,  JavaScript   React     Angular  ,Mid
+JavaScript Developer,PKO BP Finat,"Poznań, Warszawa",,  Javascript   HTML5   CSS3  ,Mid
+JavaScript Developer/Graphic Designer ,Power Media,"Remote, Warszawa, Katowice",,  JavaScript    Photoshop   jQuery  ,Mid
+Agile Project Manager,Power Media,Wrocław,,  Kanban   Scrum   ITIL  ,Mid
+Analityk IT,PKO BP Finat,Warszawa,,  JIRA   Confluence  ,Mid
+Java Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   J2EE   Spring  ,Mid
+Power BI Developer ,Power Media,Katowice,,  Power BI  ,Mid
+Java Developer,Commerzbank - Centrum Technologii Cyfrowych w Polsce,Łódź,Znamy widełki,  Java   REST   SOAP  ,Mid
+Test Automation Engineer,Transition Technologies PSC S.A.,"Remote, Białystok, Kielce i 3 więcej",,  Java   C#  ,Mid
+Network API Developer,T-Mobile Polska S. A.,Warszawa,,  Java   Go   Python  ,Mid
+Data Egnineer,Power Media,"Remote, Kraków, Katowice",,  data mining   data analyst   SQL  ,Mid
+JavaScript Developer,PKO BP Finat,"Poznań, Warszawa",,  Javascript   HTML5   CSS3  ,Mid
+Analityk Biznesowy,Altar Sp. z o.o,Kielce,Znamy widełki,  lub ECM   UML   BPMN  ,Mid
+Inżynier QA,Sii Polska,Gdańsk,,  C   C++   Git  ,Mid
+Database Administrator,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Katowice, Gdynia, Szczecin",,  PL/SQL   T-SQL   MS SQL  ,Mid
+Analityk Biznesowy (IT),Adamed Pharma S.A.,"Remote, Kraków",8 000 - 12 000 PLN,  100% Remote ,Mid
+Web Analyst,Gemini Polska,"Remote, Gdańsk",,  Google Data  ,Mid
+Node.js Developer,Netizens,"Remote, Katowice",7 500 - 15 000 PLN,  Node.js   JavaScript   Express  ,Mid
+Product Design (m/f/d),bookingkit GmbH,"Remote, Berlin",4 000 - 4 600 EUR,  B2B remote ,Mid
+Backend DAM Engineer,Sigma IT Poland,"Remote, Wrocław",16 000 - 24 300 PLN,  Media production platform ,Mid
+Full Stack Developer,Atos,"Remote, Wrocław",,  |JavaScript/TypeScript| |SQL| |Node.js| ,Mid
+Javascript Developer,createIT,"Remote, Warszawa",,  Let’s get to work on your next project! ,Mid
+Analityk biznesowy (FSM),Comarch ,Łódź,,  BPMN   UML  ,Mid
+Node.js Developer ,Power Media,Remote,,  Node.js  ,Mid
+C#/.NET Developer,Sollers Consulting,"Warszawa, Poznań, Lublin i 3 więcej",9 500 - 18 000 PLN,"  OOP, Java, Spring ",Mid
+.NET Software Developer,Medius,"Remote, Kraków",14 000 - 20 000 PLN,  Medius ,Mid
+React Developer (Mid/Senior),Power Media,"Remote, Wrocław",Znamy widełki,  React   HTML   CSS  ,Mid
+Flutter Developer (Android/iOS),IT-solve,"Remote, Częstochowa, Warszawa",8 400 - 14 700 PLN,  Śr. czas pracy u nas to 4 lata! ,Mid
+Test Developer - testy jednostkowe,Sii Polska,"Warszawa, Wrocław, Poznań i 9 więcej",,  Test Development ,Mid
+Linux Platform Engineer,Power Media,Kraków,,  Linux   Python   VMWare ESXi  ,Mid
+Java Geek - insurance cloud solutions,Sii Polska,"Remote, Gdańsk, Warszawa i 11 więcej",,  Java ,Mid
+Java Developer ,Power Media,"Remote, Wrocław",,  Java 11   Spring   Redis  ,Mid
+QA Automation Engineer,Klika Tech,"Remote, Wrocław",12 000 - 18 000 PLN,  Python   PyTest   REST API  ,Mid
+QA Engineer and Automation- Java,XPERI Poland,Warszawa,,  great opportunity to grow ,Mid
+Analityk Biznesowy,KRUK S.A.,Wrocław,, ,Mid
+UI Designer,T-Mobile Polska S. A.,Warszawa,,  HTML   CSS  ,Mid
+UX Researcher,T-Mobile Polska S. A.,Warszawa,, ,Mid
+UX Designer,Bank Millennium,Warszawa,,  Azure  ,Mid
+UX Designer,T-Mobile Polska S. A.,Warszawa,, ,Mid
+UI Designer/Grafik,Bank Millennium,Warszawa,,  Photoshop  ,Mid
+Test Engineer,Kincentric| A Spencer Stuart Company,Remote,,  REST   SOAP   BDD  ,Mid
+Test Automation Engineer,Kincentric| A Spencer Stuart Company,Remote,11 500 - 15 000 PLN,  |C# / Java| |Visual Studio| |Selenium| ,Mid
+Frontend Developer,Vimanet,"Kraków, Bielsko-Biała",11 000 - 19 000 PLN,  Team Mentoring ,Mid
+AWS Software Engineer,Power Media,"Remote, Wrocław",,  AWS   TypeScript   JavaScript  ,Mid
+Programista .NET,WEBCON,Kraków,Znamy widełki,  C#   .NET   MS SQL  ,Mid
+Site Reliability Engineer,Hitachi Energy,Remote,15 000 - 18 000 PLN,  Linux   Docker   Kubernetes  ,Mid
+Programista Java (e⁠-⁠government),Comarch ,"Kraków, Nowy Sącz, Tarnów i 2 więcej",,  Java  ,Mid
+DevOps Engineer,Luxoft Poland,Remote,,  Azure   Azure   Bash  ,Mid
+"DevOps Engineer (Python, Kubernetes)",Luxoft Poland,Remote,,  CI   Docker   ElasticSearch  ,Mid
+Senior PMO,Sapiens Software Solutions Poland Sp. z o.o. ,"Remote, Warszawa, Katowice, Gdynia",,  Excel   MS Office  ,Mid
+Sybase Database Administrator,Luxoft Poland,Remote,, ,Mid
+Software Developer,Luxoft Poland,Remote,,  Linux   Python   SQL  ,Mid
+C#/.NET Core Developer,Bank Millennium,Warszawa,12 000 - 26 000 PLN,  .NET Core   MS SQL     Oracle   ,Mid
+Java Software Engineer,Godel Technologies,"Łódź, Wrocław",10 000 - 17 000 PLN,  Java   Microservices   AWS  ,Mid
+Analityk Biznesowo-Systemowy w Obszarze Systemu Kart Płatniczych i Mobilnych,Bank Millennium,Warszawa,,  SQL   Oracle Database   Windows  ,Mid
+Area Expert Bankowości Elektronicznej,Bank Millennium,Warszawa,, ,Mid
+Scrum Master,Gemini Polska,Gdańsk,,  Agile  ,Mid
+Digital Product Owner,Bank Millennium,Warszawa,,  Scrum  ,Mid
+Programista RPG,Bank Millennium,Warszawa,,  RPG   IBM  ,Mid
+Fullstack Net & React Developer,Hitachi Energy,Kraków,12 000 - 18 000 PLN,  React   .NET   C#  ,Mid
+Specjalista ds. Rozwoju Aplikacji Contact Center,Bank Millennium,Warszawa,,  Excel   SQL  ,Mid
+BOT Designer,Bank Millennium,Warszawa,,  JavaScript  ,Mid
+React Developer,Hitachi Energy,Kraków,12 000 - 18 000 PLN,  React  ,Mid
+Embedded C Security Developer,Hitachi Energy,Kraków,8 000 - 14 000 PLN,  C  ,Mid
+Embedded C Developer,Hitachi Energy,Kraków,8 000 - 14 000 PLN,  C  ,Mid
+C# and WPF Developer,Hitachi Energy,Kraków,12 000 - 18 000 PLN,  C#   .NET   WPF  ,Mid
+React Developer Warszawa,Bank Millennium,Warszawa,12 000 - 26 000 PLN,  React   Redux   HTML5  ,Mid
+.NET Core Developer (Mid/Senior),Bank Millennium,Warszawa,12 000 - 26 000 PLN,  C#   .NET Core   REST  ,Mid
+.NET Developer ,Hitachi Energy,Kraków,8 000 - 14 000 PLN,  C#   .NET Core   PostgreSQL  ,Mid
+Tester Aplikacji Webowych (Mid/Senior),Bank Millennium,Warszawa,,  JIRA   SQL  ,Mid
+Analityk IT (Mid/Senior),Bank Millennium,Warszawa,,  MS SQL   UML   REST  ,Mid
+Site Reliability Engineer,Hitachi Energy,"Remote, Kraków",8 000 - 14 000 PLN,  Git   Jenkins   Azure  ,Mid
+ Analityk Systemowo-Biznesowy,Bank Millennium,Gdańsk,,  UML   BPMN   SoapUI  ,Mid
+React Developer,Bank Millennium,Gdańsk,,  React   Redux   HTML5  ,Mid
+Quality Assurance Engineer ,Hitachi Energy,Kraków,8 000 - 14 000 PLN,  Python   Azure   PostgreSQL  ,Mid
+Specjalista w Zespole Sieci LAN i WAN,Bank Millennium,Warszawa,, ,Mid
+Administrator Systemów Backup & Storage,Bank Millennium,Warszawa,,  Unity   Linux   Windows  ,Mid
+Configuration Management Engineer,Hitachi Energy,"Remote, Kraków",8 000 - 14 000 PLN,  Linux   Windows Server   Shell scripting  ,Mid
+Specjalista ds. Audytu Procesów IT,Bank Millennium,Warszawa,, ,Mid
+Symfony Full Stack Developer,Polcode Sp. z o.o.,"Remote, Warszawa, Kraków",7 000 - 16 000 PLN,  Symfony   PHP   MySQL  ,Mid
+Front-end Developer (fin-tech team),ONWELO SA,"Remote, Warszawa, Kraków",14 000 - 21 000 PLN,  TypeScript   Angular   React  ,Mid
+Programista .NET (Mid / Senior),Bank Millennium,Gdańsk,,  C#   .NET   .NET Core  ,Mid
+Administrator Aplikacji,Bank Millennium,Gdańsk,,  Windows   Linux   CentOS  ,Mid
+DevOps Engineer,Rumble Fish Software Development,Kraków,14 000 - 21 000 PLN,  AWS ,Mid
+Embedded Linux Developer,Hitachi Energy,"Remote, Kraków",9 000 - 16 000 PLN,  C   Linux   Bash  ,Mid
+Embedded C & Python Developer,Hitachi Energy,Kraków,10 000 - 16 000 PLN,  C    Python  ,Mid
+Murex Developer,Luxoft Poland,Remote,, ,Mid
+Python Developer,Apptension ,"Remote, Poznań",7 400 - 15 000 PLN,"  Django, Python, 2+ years ",Mid
+Frontend Developer,Apptension ,"Remote, Poznań",7 400 - 15 000 PLN,"  React, Redux, 2+ years ",Mid
+Software Engineer (JAVA),RTV EURO AGD,Warszawa,,  JAVA ,Mid
+Architekt IT,RTV EURO AGD,Warszawa,,"  BPMN, Togaf, Archimate, Visual Paradigm ",Mid
+Analityk Systemowo-Biznesowy,RTV EURO AGD,Warszawa,,"  BPMN, UML, Agile ",Mid
